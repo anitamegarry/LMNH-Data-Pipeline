@@ -1,0 +1,1075 @@
+Invalid: {"at": "2024-10-22T14:41:20.659662+01:00", "site": "2", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 547281
+Invalid: {"at": "2024-10-22T14:41:56.664306+01:00", "site": "0", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547294
+Invalid: {"at": "2024-10-22T14:42:00.664616+01:00", "site": "0", "val": -2}, Reason: Invalid val value, Offset: 547295
+Invalid: {"at": "2024-10-22T14:42:07.665512+01:00", "site": "3", "val": 7}, Reason: Invalid val value, Offset: 547297
+Invalid: {"at": "2024-10-22T14:42:19.666898+01:00", "val": 2}, Reason: Missing site key, Offset: 547300
+Invalid: {"at": "2024-10-22T14:42:19.666898+01:00", "val": 2}, Reason: Invalid site value, Offset: 547300
+Invalid: {"at": "2024-10-22T14:42:58.672819+01:00", "site": "ERR", "val": 2}, Reason: Invalid site value, Offset: 547312
+Invalid: {"at": "2024-10-22T14:43:22.675527+01:00", "site": "4"}, Reason: Missing val key, Offset: 547317
+Invalid: {"at": "2024-10-22T14:43:22.675527+01:00", "site": "4"}, Reason: Invalid val value, Offset: 547317
+Invalid: {"at": "2024-10-22T14:43:30.676356+01:00", "site": "0", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547319
+Invalid: {"at": "2024-10-22T14:43:35.676668+01:00", "site": "1", "val": 6}, Reason: Invalid val value, Offset: 547320
+Invalid: {"at": "2024-10-22T14:44:38.684242+01:00", "site": "7", "val": 3}, Reason: Invalid site value, Offset: 547338
+Invalid: {"at": "2024-10-22T14:44:43.684587+01:00", "site": "4", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 547339
+Invalid: {"at": "2024-10-22T14:44:48.684902+01:00", "site": "INF", "val": 2}, Reason: Invalid site value, Offset: 547340
+Invalid: {"at": "2024-10-22T14:44:59.687169+01:00", "site": "2", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 547344
+Invalid: {"site": "4", "val": 2}, Reason: Missing at key, Offset: 547346
+Invalid: {"site": "4", "val": 2}, Reason: Invalid at value, Offset: 547346
+Invalid: {"at": "2024-10-22T14:45:44.691368+01:00", "site": "6", "val": 1}, Reason: Invalid site value, Offset: 547355
+Invalid: {"at": "2024-10-22T14:45:59.692663+01:00", "site": "3", "val": -3, "type": 0}, Reason: Invalid val value, Offset: 547358
+Invalid: {"at": "2024-10-22T14:46:12.694009+01:00", "site": "5", "val": 8}, Reason: Invalid val value, Offset: 547361
+Invalid: {"at": "2024-10-22T14:46:15.694607+01:00", "site": "3", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547363
+Invalid: {"at": "2024-10-22T14:46:17.694938+01:00", "val": -1, "type": 0}, Reason: Missing site key, Offset: 547364
+Invalid: {"at": "2024-10-22T14:46:17.694938+01:00", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 547364
+Invalid: {"at": "2024-10-22T14:46:27.695584+01:00", "site": "5", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 547366
+Invalid: {"at": "2024-10-22T14:47:00.698677+01:00", "site": "None", "val": 3}, Reason: Invalid site value, Offset: 547375
+Invalid: {"at": "2024-10-22T14:47:01.699345+01:00", "site": "2", "val": 8}, Reason: Invalid val value, Offset: 547376
+Invalid: {"at": "2024-10-22T14:47:20.701200+01:00", "site": "1", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 547381
+Invalid: {"at": "2024-10-22T14:47:55.706159+01:00", "site": "5", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547391
+Invalid: {"at": "2024-10-22T14:48:14.711244+01:00", "site": "2", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547397
+Invalid: {"at": "2024-10-22T14:48:15.712450+01:00", "site": "4"}, Reason: Missing val key, Offset: 547398
+Invalid: {"at": "2024-10-22T14:48:15.712450+01:00", "site": "4"}, Reason: Invalid val value, Offset: 547398
+Invalid: {"at": "2024-10-22T14:48:50.716835+01:00", "site": "3", "val": -1, "type": 1}, Reason: Invalid type value, Offset: 547410
+Invalid: {"at": "2024-10-22T14:48:57.718359+01:00", "val": 3}, Reason: Missing site key, Offset: 547414
+Invalid: {"at": "2024-10-22T14:48:57.718359+01:00", "val": 3}, Reason: Invalid site value, Offset: 547414
+Invalid: {"at": "2024-10-22T14:49:21.720985+01:00", "site": "8", "val": 3}, Reason: Invalid site value, Offset: 547421
+Invalid: {"at": "2024-10-22T14:50:12.727278+01:00", "site": "3", "val": -1, "type": 1}, Reason: Invalid type value, Offset: 547438
+Invalid: {"at": "2024-10-22T14:50:38.731069+01:00", "site": "1", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 547446
+Invalid: {"at": "2024-10-22T14:50:46.731792+01:00", "site": "1", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 547448
+Invalid: {"at": "2024-10-22T14:50:48.732111+01:00", "site": "3", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547449
+Invalid: {"at": "2024-10-22T14:51:36.737405+01:00", "site": "1", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547461
+Invalid: {"at": "2024-10-22T14:51:52.738459+01:00", "site": "6", "val": 3}, Reason: Invalid site value, Offset: 547464
+Invalid: {"at": "2024-10-22T14:51:54.738813+01:00", "val": 0}, Reason: Missing site key, Offset: 547465
+Invalid: {"at": "2024-10-22T14:51:54.738813+01:00", "val": 0}, Reason: Invalid site value, Offset: 547465
+Invalid: {"at": "2024-10-22T14:52:10.739811+01:00", "val": 1}, Reason: Missing site key, Offset: 547468
+Invalid: {"at": "2024-10-22T14:52:10.739811+01:00", "val": 1}, Reason: Invalid site value, Offset: 547468
+Invalid: {"at": "2024-10-22T14:52:27.741800+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 547474
+Invalid: {"at": "2024-10-22T14:52:34.742907+01:00", "site": "10", "val": 2}, Reason: Invalid site value, Offset: 547477
+Invalid: {"at": "2024-10-22T14:52:44.743645+01:00", "site": "2", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 547479
+Invalid: {"site": "4", "val": 2}, Reason: Missing at key, Offset: 547482
+Invalid: {"site": "4", "val": 2}, Reason: Invalid at value, Offset: 547482
+Invalid: {"at": "2024-10-22T14:52:57.745868+01:00", "site": "8", "val": 3}, Reason: Invalid site value, Offset: 547485
+Invalid: {"at": "2024-10-22T14:53:07.746563+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 547487
+Invalid: {"at": "2024-10-22T14:53:16.747373+01:00", "site": "8", "val": 2}, Reason: Invalid site value, Offset: 547489
+Invalid: {"at": "2024-10-22T14:57:08.777542+01:00", "site": "4", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 547554
+Invalid: {"at": "2024-10-22T14:57:21.780608+01:00", "site": "None", "val": 0}, Reason: Invalid site value, Offset: 547558
+Invalid: {"at": "2024-10-22T14:57:26.780935+01:00", "site": "7", "val": 1}, Reason: Invalid site value, Offset: 547559
+Invalid: {"at": "2024-10-22T14:57:37.782005+01:00", "site": "5", "val": "ERR"}, Reason: Invalid val value, Offset: 547562
+Invalid: {"at": "2024-10-22T14:57:53.783946+01:00", "site": "5", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 547567
+Invalid: {"at": "2024-10-22T14:58:12.786570+01:00", "site": "4", "val": 9}, Reason: Invalid val value, Offset: 547572
+Invalid: {"at": "2024-10-22T14:58:33.789145+01:00", "val": 4}, Reason: Missing site key, Offset: 547579
+Invalid: {"at": "2024-10-22T14:58:33.789145+01:00", "val": 4}, Reason: Invalid site value, Offset: 547579
+Invalid: {"at": "2024-10-22T14:58:36.789975+01:00", "site": "3", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547581
+Invalid: {"at": "2024-10-22T14:58:52.791650+01:00", "val": 1}, Reason: Missing site key, Offset: 547585
+Invalid: {"at": "2024-10-22T14:58:52.791650+01:00", "val": 1}, Reason: Invalid site value, Offset: 547585
+Invalid: {"at": "2024-10-22T14:59:01.793068+01:00", "site": "2", "val": 5}, Reason: Invalid val value, Offset: 547589
+Invalid: {"at": "2024-10-22T14:59:27.796771+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 547596
+Invalid: {"at": "2024-10-22T14:59:50.798739+01:00", "site": "11", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 547602
+Invalid: {"at": "2024-10-22T15:00:02.801717+01:00", "site": "12", "val": 4}, Reason: Invalid site value, Offset: 547604
+Invalid: {"at": "2024-10-22T15:00:09.803042+01:00", "site": "3", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 547607
+Invalid: {"at": "2024-10-22T15:00:30.807971+01:00", "site": "3", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 547613
+Invalid: {"at": "2024-10-22T15:01:00.811650+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 547622
+Invalid: {"at": "2024-10-22T15:01:31.815858+01:00", "val": 0}, Reason: Missing site key, Offset: 547632
+Invalid: {"at": "2024-10-22T15:01:31.815858+01:00", "val": 0}, Reason: Invalid site value, Offset: 547632
+Invalid: {"at": "2024-10-22T15:01:51.818713+01:00", "site": "2", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 547637
+Invalid: {"at": "2024-10-22T15:02:38.826528+01:00", "site": "5"}, Reason: Missing val key, Offset: 547653
+Invalid: {"at": "2024-10-22T15:02:38.826528+01:00", "site": "5"}, Reason: Invalid val value, Offset: 547653
+Invalid: {"at": "2024-10-22T15:02:40.826833+01:00", "site": "None", "val": 4}, Reason: Invalid site value, Offset: 547654
+Invalid: {"at": "2024-10-22T15:02:50.827825+01:00", "site": "1", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 547656
+Invalid: {"at": "2024-10-22T15:02:54.828153+01:00", "site": "4", "val": -1}, Reason: Invalid type value, Offset: 547657
+Invalid: {"at": "2024-10-22T15:02:59.829482+01:00", "site": "0", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 547659
+Invalid: {"at": "2024-10-22T15:03:18.831952+01:00", "site": "5", "val": null}, Reason: Missing val key, Offset: 547665
+Invalid: {"at": "2024-10-22T15:03:18.831952+01:00", "site": "5", "val": null}, Reason: Invalid val value, Offset: 547665
+Invalid: {"at": "2024-10-22T15:03:32.836270+01:00", "site": "ERR", "val": 2}, Reason: Invalid site value, Offset: 547670
+Invalid: {"at": "2024-10-22T15:03:37.837029+01:00", "site": "INF", "val": 2}, Reason: Invalid site value, Offset: 547672
+Invalid: {"at": "2024-10-22T15:03:45.837952+01:00", "site": "2", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547674
+Invalid: {"at": "2024-10-22T15:03:48.838264+01:00", "site": "1", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 547675
+Invalid: {"at": "2024-10-22T11:45:43.301308+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544263
+Invalid: {"at": "2024-10-22T11:45:49.302470+01:00", "site": "12", "val": 3}, Reason: Invalid site value, Offset: 544266
+Invalid: {"at": "2024-10-22T11:46:15.306636+01:00", "site": "2", "val": "INF"}, Reason: Invalid val value, Offset: 544274
+Invalid: {"at": "2024-10-22T11:46:27.307291+01:00", "site": "3", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 544276
+Invalid: {"at": "2024-10-22T11:46:32.308687+01:00", "site": "5", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 544277
+Invalid: {"at": "2024-10-22T11:46:51.310015+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544281
+Invalid: {"at": "2024-10-22T11:47:03.310978+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544284
+Invalid: {"at": "2024-10-22T11:47:31.314929+01:00", "site": "3", "val": -3}, Reason: Invalid val value, Offset: 544294
+Invalid: {"at": "2024-10-22T11:47:43.316260+01:00", "site": "7", "val": 2}, Reason: Invalid site value, Offset: 544298
+Invalid: {"at": "2024-10-22T11:48:01.318680+01:00", "site": "3", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 544304
+Invalid: {"at": "2024-10-22T11:49:14.329289+01:00", "site": "2"}, Reason: Missing val key, Offset: 544325
+Invalid: {"at": "2024-10-22T11:49:14.329289+01:00", "site": "2"}, Reason: Invalid val value, Offset: 544325
+Invalid: {"at": "2024-10-22T11:49:27.331984+01:00", "site": "5", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544329
+Invalid: {"at": "2024-10-22T11:49:39.332641+01:00", "site": "0", "val": -1, "type": null}, Reason: Invalid type value, Offset: 544331
+Invalid: {"at": "2024-10-22T11:49:55.334370+01:00", "site": "0", "val": 8}, Reason: Invalid val value, Offset: 544336
+Invalid: {"at": "2024-10-22T11:51:33.344789+01:00", "site": "0", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544360
+Invalid: {"at": "2024-10-22T11:51:57.346739+01:00", "site": "ERR", "val": 2}, Reason: Invalid site value, Offset: 544366
+Invalid: {"site": "1", "val": 3}, Reason: Missing at key, Offset: 544368
+Invalid: {"site": "1", "val": 3}, Reason: Invalid at value, Offset: 544368
+Invalid: {"at": "2024-10-22T11:52:28.349938+01:00", "site": "1", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 544375
+Invalid: {"at": "2024-10-22T11:52:46.351960+01:00", "site": "10", "val": 1}, Reason: Invalid site value, Offset: 544379
+Invalid: {"at": "2024-10-22T11:52:51.352499+01:00", "val": 4}, Reason: Missing site key, Offset: 544380
+Invalid: {"at": "2024-10-22T11:52:51.352499+01:00", "val": 4}, Reason: Invalid site value, Offset: 544380
+Invalid: {"at": "2024-10-22T11:53:08.354859+01:00", "site": "11", "val": 1}, Reason: Invalid site value, Offset: 544385
+Invalid: {"at": "2024-10-22T11:53:40.358939+01:00", "site": "2", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 544394
+Invalid: {"at": "2024-10-22T11:53:43.359403+01:00", "site": "5", "val": "ERR"}, Reason: Invalid val value, Offset: 544395
+Invalid: {"at": "2024-10-22T11:53:51.360648+01:00", "site": "3"}, Reason: Missing val key, Offset: 544398
+Invalid: {"at": "2024-10-22T11:53:51.360648+01:00", "site": "3"}, Reason: Invalid val value, Offset: 544398
+Invalid: {"at": "2024-10-22T11:54:31.367372+01:00", "site": "2", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544409
+Invalid: {"at": "2024-10-22T11:54:37.367795+01:00", "val": 0}, Reason: Missing site key, Offset: 544410
+Invalid: {"at": "2024-10-22T11:54:37.367795+01:00", "val": 0}, Reason: Invalid site value, Offset: 544410
+Invalid: {"at": "2024-10-22T11:54:56.369699+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544415
+Invalid: {"at": "2024-10-22T11:55:13.371474+01:00", "val": 2}, Reason: Missing site key, Offset: 544420
+Invalid: {"at": "2024-10-22T11:55:13.371474+01:00", "val": 2}, Reason: Invalid site value, Offset: 544420
+Invalid: {"at": "2024-10-22T11:55:27.373163+01:00", "site": "2", "val": 9}, Reason: Invalid val value, Offset: 544424
+Invalid: {"at": "2024-10-22T11:55:47.375843+01:00", "site": "0", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544431
+Invalid: {"at": "2024-10-22T11:56:15.379083+01:00", "site": "3", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 544438
+Invalid: {"at": "2024-10-22T11:57:00.384472+01:00", "val": 1}, Reason: Missing site key, Offset: 544451
+Invalid: {"at": "2024-10-22T11:57:00.384472+01:00", "val": 1}, Reason: Invalid site value, Offset: 544451
+Invalid: {"at": "2024-10-22T11:57:01.385470+01:00", "site": "2", "val": 9}, Reason: Invalid val value, Offset: 544452
+Invalid: {"site": "5", "val": 1}, Reason: Missing at key, Offset: 544458
+Invalid: {"site": "5", "val": 1}, Reason: Invalid at value, Offset: 544458
+Invalid: {"at": "2024-10-22T11:57:40.388831+01:00", "site": "2"}, Reason: Missing val key, Offset: 544460
+Invalid: {"at": "2024-10-22T11:57:40.388831+01:00", "site": "2"}, Reason: Invalid val value, Offset: 544460
+Invalid: {"at": "2024-10-22T11:57:47.389448+01:00", "site": "2", "val": 8}, Reason: Invalid val value, Offset: 544462
+Invalid: {"at": "2024-10-22T11:57:48.389751+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544463
+Invalid: {"at": "2024-10-22T11:57:52.390428+01:00", "site": "3", "val": "ERR"}, Reason: Invalid val value, Offset: 544465
+Invalid: {"at": "2024-10-22T11:58:02.391282+01:00", "site": "None", "val": 1}, Reason: Invalid site value, Offset: 544467
+Invalid: {"at": "2024-10-22T11:58:14.392082+01:00", "site": "8", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 544469
+Invalid: {"at": "2024-10-22T11:58:21.393371+01:00", "site": "6", "val": 4}, Reason: Invalid site value, Offset: 544473
+Invalid: {"at": "2024-10-22T11:58:48.395917+01:00", "site": "5", "val": "ERR"}, Reason: Invalid val value, Offset: 544479
+Invalid: {"at": "2024-10-22T11:58:58.396585+01:00", "site": "1", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 544481
+Invalid: {"at": "2024-10-22T11:59:09.399160+01:00", "site": "5", "val": -2}, Reason: Invalid val value, Offset: 544485
+Invalid: {"at": "2024-10-22T11:59:34.401665+01:00", "site": "4", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 544491
+Invalid: {"at": "2024-10-22T11:59:40.401960+01:00", "site": "2", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544492
+Invalid: {"site": "3", "val": 1}, Reason: Missing at key, Offset: 544495
+Invalid: {"site": "3", "val": 1}, Reason: Invalid at value, Offset: 544495
+Invalid: {"at": "2024-10-22T11:59:51.403579+01:00", "site": "7", "val": 2}, Reason: Invalid site value, Offset: 544496
+Invalid: {"at": "2024-10-22T12:00:13.405521+01:00", "site": "2", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544502
+Invalid: {"at": "2024-10-22T12:00:28.407154+01:00", "site": "2"}, Reason: Missing val key, Offset: 544507
+Invalid: {"at": "2024-10-22T12:00:28.407154+01:00", "site": "2"}, Reason: Invalid val value, Offset: 544507
+Invalid: {"at": "2024-10-22T12:00:48.409605+01:00", "site": "7", "val": 4}, Reason: Invalid site value, Offset: 544514
+Invalid: {"site": "1", "val": 3}, Reason: Missing at key, Offset: 544531
+Invalid: {"site": "1", "val": 3}, Reason: Invalid at value, Offset: 544531
+Invalid: {"at": "2024-10-22T12:01:48.416466+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544533
+Invalid: {"at": "2024-10-22T12:01:49.416807+01:00", "site": "1", "val": -3}, Reason: Invalid val value, Offset: 544534
+Invalid: {"at": "2024-10-22T12:02:12.420350+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544543
+Invalid: {"at": "2024-10-22T12:02:14.420665+01:00", "site": "0", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 544544
+Invalid: {"at": "2024-10-22T12:02:34.423401+01:00", "site": "1", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544550
+Invalid: {"at": "2024-10-22T12:02:42.424124+01:00", "site": "1", "val": 8}, Reason: Invalid val value, Offset: 544552
+Invalid: {"at": "2024-10-22T12:02:56.425302+01:00", "site": "8", "val": 0}, Reason: Invalid site value, Offset: 544556
+Invalid: {"at": "2024-10-22T12:03:02.426050+01:00", "site": "5", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 544558
+Invalid: {"at": "2024-10-22T12:03:13.427410+01:00", "site": "5", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 544562
+Invalid: {"at": "2024-10-22T12:03:18.428333+01:00", "site": "3", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 544564
+Invalid: {"site": "4", "val": 0}, Reason: Missing at key, Offset: 544570
+Invalid: {"site": "4", "val": 0}, Reason: Invalid at value, Offset: 544570
+Invalid: {"at": "2024-10-22T12:04:10.435634+01:00", "site": "4"}, Reason: Missing val key, Offset: 544580
+Invalid: {"at": "2024-10-22T12:04:10.435634+01:00", "site": "4"}, Reason: Invalid val value, Offset: 544580
+Invalid: {"at": "2024-10-22T12:04:51.441515+01:00", "site": "3", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 544594
+Invalid: {"at": "2024-10-22T12:04:59.442553+01:00", "site": "8", "val": 3}, Reason: Invalid site value, Offset: 544597
+Invalid: {"at": "2024-10-22T12:05:10.443778+01:00", "site": "0", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 544599
+Invalid: {"at": "2024-10-22T12:05:39.447680+01:00", "site": "1"}, Reason: Missing val key, Offset: 544607
+Invalid: {"at": "2024-10-22T12:05:39.447680+01:00", "site": "1"}, Reason: Invalid val value, Offset: 544607
+Invalid: {"site": "1", "val": 3}, Reason: Missing at key, Offset: 544608
+Invalid: {"site": "1", "val": 3}, Reason: Invalid at value, Offset: 544608
+Invalid: {"at": "2024-10-22T12:05:47.448263+01:00", "site": "11", "val": 1}, Reason: Invalid site value, Offset: 544609
+Invalid: {"at": "2024-10-22T12:06:05.451065+01:00", "site": "1", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 544615
+Invalid: {"at": "2024-10-22T12:06:26.454388+01:00", "site": "4", "val": -3}, Reason: Invalid val value, Offset: 544621
+Invalid: {"at": "2024-10-22T12:07:01.457617+01:00", "site": "3", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 544629
+Invalid: {"at": "2024-10-22T12:07:17.459043+01:00", "site": "4", "val": 7}, Reason: Invalid val value, Offset: 544633
+Invalid: {"at": "2024-10-22T12:08:30.466449+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544651
+Invalid: {"at": "2024-10-22T12:08:38.467172+01:00", "site": "9", "val": 3}, Reason: Invalid site value, Offset: 544653
+Invalid: {"site": "1", "val": 2}, Reason: Missing at key, Offset: 544654
+Invalid: {"site": "1", "val": 2}, Reason: Invalid at value, Offset: 544654
+Invalid: {"at": "2024-10-22T12:08:54.468619+01:00", "site": "5", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544657
+Invalid: {"at": "2024-10-22T12:09:16.473245+01:00", "site": "3", "val": "INF"}, Reason: Invalid val value, Offset: 544663
+Invalid: {"at": "2024-10-22T12:09:46.476845+01:00", "site": "5", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 544673
+Invalid: {"at": "2024-10-22T12:10:05.479404+01:00", "site": "3", "val": -2}, Reason: Invalid val value, Offset: 544678
+Invalid: {"at": "2024-10-22T12:10:34.482203+01:00", "site": "5", "val": -2}, Reason: Invalid val value, Offset: 544686
+Invalid: {"site": "1", "val": 1}, Reason: Missing at key, Offset: 544687
+Invalid: {"site": "1", "val": 1}, Reason: Invalid at value, Offset: 544687
+Invalid: {"at": "2024-10-22T12:11:09.485337+01:00", "val": 1}, Reason: Missing site key, Offset: 544694
+Invalid: {"at": "2024-10-22T12:11:09.485337+01:00", "val": 1}, Reason: Invalid site value, Offset: 544694
+Invalid: {"at": "2024-10-22T12:11:21.486466+01:00", "site": "7", "val": 4}, Reason: Invalid site value, Offset: 544697
+Invalid: {"site": "0", "val": 1}, Reason: Missing at key, Offset: 544698
+Invalid: {"site": "0", "val": 1}, Reason: Invalid at value, Offset: 544698
+Invalid: {"at": "2024-10-22T12:11:40.488130+01:00", "site": "1", "val": null}, Reason: Missing val key, Offset: 544702
+Invalid: {"at": "2024-10-22T12:11:40.488130+01:00", "site": "1", "val": null}, Reason: Invalid val value, Offset: 544702
+Invalid: {"at": "2024-10-22T12:13:15.499082+01:00", "site": "5", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 544730
+Invalid: {"site": "4", "val": 1}, Reason: Missing at key, Offset: 544735
+Invalid: {"site": "4", "val": 1}, Reason: Invalid at value, Offset: 544735
+Invalid: {"site": "4", "val": 2}, Reason: Missing at key, Offset: 544736
+Invalid: {"site": "4", "val": 2}, Reason: Invalid at value, Offset: 544736
+Invalid: {"at": "2024-10-22T12:13:57.503058+01:00", "site": "5", "val": "INF"}, Reason: Invalid val value, Offset: 544740
+Invalid: {"at": "2024-10-22T12:14:13.506057+01:00", "site": "2", "val": -1, "type": null}, Reason: Invalid type value, Offset: 544747
+Invalid: {"at": "2024-10-22T12:14:19.506519+01:00", "site": "5", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 544748
+Invalid: {"at": "2024-10-22T12:15:18.513841+01:00", "site": "2", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 544766
+Invalid: {"at": "2024-10-22T12:15:59.517695+01:00", "site": "4", "val": "ERR"}, Reason: Invalid val value, Offset: 544777
+Invalid: {"at": "2024-10-22T12:16:23.520325+01:00", "site": "2", "val": null}, Reason: Missing val key, Offset: 544783
+Invalid: {"at": "2024-10-22T12:16:23.520325+01:00", "site": "2", "val": null}, Reason: Invalid val value, Offset: 544783
+Invalid: {"at": "2024-10-22T12:16:53.523448+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544791
+Invalid: {"at": "2024-10-22T12:16:58.523921+01:00", "site": "3", "val": 5}, Reason: Invalid val value, Offset: 544792
+Invalid: {"at": "2024-10-22T12:17:15.525952+01:00", "site": "0"}, Reason: Missing val key, Offset: 544798
+Invalid: {"at": "2024-10-22T12:17:15.525952+01:00", "site": "0"}, Reason: Invalid val value, Offset: 544798
+Invalid: {"at": "2024-10-22T12:17:57.531029+01:00", "site": "10", "val": 4}, Reason: Invalid site value, Offset: 544811
+Invalid: {"at": "2024-10-22T12:18:23.534178+01:00", "site": "11", "val": 3}, Reason: Invalid site value, Offset: 544819
+Invalid: {"at": "2024-10-22T12:18:58.540652+01:00", "val": 2}, Reason: Missing site key, Offset: 544830
+Invalid: {"at": "2024-10-22T12:18:58.540652+01:00", "val": 2}, Reason: Invalid site value, Offset: 544830
+Invalid: {"at": "2024-10-22T12:19:22.542787+01:00", "site": "2", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 544835
+Invalid: {"at": "2024-10-22T12:19:39.544990+01:00", "site": "12", "val": 1}, Reason: Invalid site value, Offset: 544841
+Invalid: {"at": "2024-10-22T12:19:46.545616+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544843
+Invalid: {"at": "2024-10-22T12:19:57.546728+01:00", "site": "INF", "val": 1}, Reason: Invalid site value, Offset: 544846
+Invalid: {"at": "2024-10-22T12:20:14.548574+01:00", "val": 2}, Reason: Missing site key, Offset: 544851
+Invalid: {"at": "2024-10-22T12:20:14.548574+01:00", "val": 2}, Reason: Invalid site value, Offset: 544851
+Invalid: {"at": "2024-10-22T12:20:35.552671+01:00", "site": "2", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544858
+Invalid: {"at": "2024-10-22T12:21:00.554922+01:00", "val": -1, "type": 0}, Reason: Missing site key, Offset: 544864
+Invalid: {"at": "2024-10-22T12:21:00.554922+01:00", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 544864
+Invalid: {"at": "2024-10-22T12:21:20.559666+01:00", "site": "2", "val": -3}, Reason: Invalid val value, Offset: 544870
+Invalid: {"at": "2024-10-22T12:21:24.560523+01:00", "site": "2"}, Reason: Missing val key, Offset: 544872
+Invalid: {"at": "2024-10-22T12:21:24.560523+01:00", "site": "2"}, Reason: Invalid val value, Offset: 544872
+Invalid: {"at": "2024-10-22T12:21:37.561501+01:00", "site": "2", "val": null}, Reason: Missing val key, Offset: 544875
+Invalid: {"at": "2024-10-22T12:21:37.561501+01:00", "site": "2", "val": null}, Reason: Invalid val value, Offset: 544875
+Invalid: {"at": "2024-10-22T12:22:03.564491+01:00", "site": "6", "val": 1}, Reason: Invalid site value, Offset: 544883
+Invalid: {"at": "2024-10-22T12:22:05.564830+01:00", "val": 4}, Reason: Missing site key, Offset: 544884
+Invalid: {"at": "2024-10-22T12:22:05.564830+01:00", "val": 4}, Reason: Invalid site value, Offset: 544884
+Invalid: {"at": "2024-10-22T12:22:15.566160+01:00", "site": "0", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 544888
+Invalid: {"at": "2024-10-22T12:23:18.573487+01:00", "site": "1", "val": "ERR"}, Reason: Invalid val value, Offset: 544905
+Invalid: {"at": "2024-10-22T12:23:20.574162+01:00", "site": "5", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 544907
+Invalid: {"at": "2024-10-22T12:23:27.575475+01:00", "site": "4", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 544910
+Invalid: {"at": "2024-10-22T12:23:39.576875+01:00", "site": "4", "val": null}, Reason: Missing val key, Offset: 544914
+Invalid: {"at": "2024-10-22T12:23:39.576875+01:00", "site": "4", "val": null}, Reason: Invalid val value, Offset: 544914
+Invalid: {"at": "2024-10-22T12:23:42.577398+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544915
+Invalid: {"at": "2024-10-22T12:24:45.583547+01:00", "site": "5", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544932
+Invalid: {"at": "2024-10-22T12:25:19.587167+01:00", "site": "INF", "val": 3}, Reason: Invalid site value, Offset: 544942
+Invalid: {"at": "2024-10-22T12:25:39.588627+01:00", "site": "5", "val": 6}, Reason: Invalid val value, Offset: 544946
+Invalid: {"at": "2024-10-22T12:25:51.589357+01:00", "site": "11", "val": 0}, Reason: Invalid site value, Offset: 544948
+Invalid: {"at": "2024-10-22T12:25:58.590332+01:00", "site": "5", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544950
+Invalid: {"at": "2024-10-22T12:26:46.596169+01:00", "site": "5", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 544963
+Invalid: {"at": "2024-10-22T12:27:07.597902+01:00", "site": "0", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 544968
+Invalid: {"at": "2024-10-22T12:27:51.602827+01:00", "site": "4", "val": 6}, Reason: Invalid val value, Offset: 544981
+Invalid: {"at": "2024-10-22T12:28:02.603857+01:00", "site": "3", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 544984
+Invalid: {"site": "0", "val": 3}, Reason: Missing at key, Offset: 544989
+Invalid: {"site": "0", "val": 3}, Reason: Invalid at value, Offset: 544989
+Invalid: {"at": "2024-10-22T12:28:19.606328+01:00", "val": 1}, Reason: Missing site key, Offset: 544991
+Invalid: {"at": "2024-10-22T12:28:19.606328+01:00", "val": 1}, Reason: Invalid site value, Offset: 544991
+Invalid: {"at": "2024-10-22T12:28:26.607130+01:00", "site": "7", "val": 2}, Reason: Invalid site value, Offset: 544993
+Invalid: {"at": "2024-10-22T12:28:41.609672+01:00", "val": 2}, Reason: Missing site key, Offset: 544999
+Invalid: {"at": "2024-10-22T12:28:41.609672+01:00", "val": 2}, Reason: Invalid site value, Offset: 544999
+Invalid: {"at": "2024-10-22T12:29:01.612232+01:00", "site": "5", "val": 6}, Reason: Invalid val value, Offset: 545005
+Invalid: {"at": "2024-10-22T12:29:08.614490+01:00", "site": "6", "val": 4}, Reason: Invalid site value, Offset: 545007
+Invalid: {"at": "2024-10-22T12:29:10.614864+01:00", "site": "6", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 545008
+Invalid: {"at": "2024-10-22T12:30:05.621653+01:00", "site": "2", "val": 6}, Reason: Invalid val value, Offset: 545021
+Invalid: {"at": "2024-10-22T12:30:55.627788+01:00", "site": "1", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 545034
+Invalid: {"at": "2024-10-22T12:32:25.643204+01:00", "site": "ERR", "val": 4}, Reason: Invalid site value, Offset: 545062
+Invalid: {"at": "2024-10-22T12:32:36.644602+01:00", "site": "3", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 545066
+Invalid: {"at": "2024-10-22T12:32:41.644962+01:00", "site": "4", "val": -1, "type": 1}, Reason: Invalid type value, Offset: 545067
+Invalid: {"at": "2024-10-22T12:32:43.645301+01:00", "site": "5", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 545068
+Invalid: {"at": "2024-10-22T12:33:13.648062+01:00", "site": "6", "val": 3}, Reason: Invalid site value, Offset: 545076
+Invalid: {"at": "2024-10-22T12:33:17.648389+01:00", "site": "4", "val": 7}, Reason: Invalid val value, Offset: 545077
+Invalid: {"at": "2024-10-22T12:33:24.649591+01:00", "val": 1}, Reason: Missing site key, Offset: 545079
+Invalid: {"at": "2024-10-22T12:33:24.649591+01:00", "val": 1}, Reason: Invalid site value, Offset: 545079
+Invalid: {"at": "2024-10-22T12:33:34.650689+01:00", "site": "1", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 545081
+Invalid: {"site": "4", "val": 2}, Reason: Missing at key, Offset: 545088
+Invalid: {"site": "4", "val": 2}, Reason: Invalid at value, Offset: 545088
+Invalid: {"at": "2024-10-22T12:34:19.655180+01:00", "site": "INF", "val": 2}, Reason: Invalid site value, Offset: 545094
+Invalid: {"at": "2024-10-22T12:34:22.656142+01:00", "site": "5", "val": -1, "type": null}, Reason: Invalid type value, Offset: 545095
+Invalid: {"at": "2024-10-22T12:34:47.659532+01:00", "site": "12", "val": 1}, Reason: Invalid site value, Offset: 545103
+Invalid: {"at": "2024-10-22T12:34:54.660398+01:00", "site": "10", "val": 2}, Reason: Invalid site value, Offset: 545105
+Invalid: {"at": "2024-10-22T12:35:01.661150+01:00", "site": "1", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 545107
+Invalid: {"at": "2024-10-22T12:35:19.663196+01:00", "site": "2"}, Reason: Missing val key, Offset: 545112
+Invalid: {"at": "2024-10-22T12:35:19.663196+01:00", "site": "2"}, Reason: Invalid val value, Offset: 545112
+Invalid: {"at": "2024-10-22T12:35:24.664047+01:00", "site": "0", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 545114
+Invalid: {"site": "4", "val": 0}, Reason: Missing at key, Offset: 545117
+Invalid: {"site": "4", "val": 0}, Reason: Invalid at value, Offset: 545117
+Invalid: {"at": "2024-10-22T12:35:42.665820+01:00", "site": "3", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 545119
+Invalid: {"at": "2024-10-22T12:35:45.666131+01:00", "site": "0", "val": 8}, Reason: Invalid val value, Offset: 545120
+Invalid: {"at": "2024-10-22T12:36:13.670046+01:00", "site": "2", "val": "ERR"}, Reason: Invalid val value, Offset: 545128
+Invalid: {"at": "2024-10-22T12:36:24.671902+01:00", "site": "6", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 545133
+Invalid: {"at": "2024-10-22T12:36:27.672289+01:00", "site": "None", "val": 0}, Reason: Invalid site value, Offset: 545134
+Invalid: {"at": "2024-10-22T12:36:32.672960+01:00", "site": "5", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 545136
+Invalid: {"at": "2024-10-22T12:36:38.673277+01:00", "site": "ERR", "val": 1}, Reason: Invalid site value, Offset: 545137
+Invalid: {"at": "2024-10-22T12:36:47.673957+01:00", "site": "2", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 545139
+Invalid: {"at": "2024-10-22T12:37:10.676292+01:00", "site": "None", "val": 1}, Reason: Invalid site value, Offset: 545144
+Invalid: {"at": "2024-10-22T12:37:23.677415+01:00", "site": "2", "val": 9}, Reason: Invalid val value, Offset: 545147
+Invalid: {"at": "2024-10-22T12:37:30.678192+01:00", "site": "1", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 545149
+Invalid: {"at": "2024-10-22T12:37:59.682024+01:00", "site": "4", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 545158
+Invalid: {"site": "3", "val": 3}, Reason: Missing at key, Offset: 545163
+Invalid: {"site": "3", "val": 3}, Reason: Invalid at value, Offset: 545163
+Invalid: {"at": "2024-10-22T12:38:40.685487+01:00", "site": "1", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 545168
+Invalid: {"at": "2024-10-22T12:38:46.686627+01:00", "site": "2", "val": 9}, Reason: Invalid val value, Offset: 545171
+Invalid: {"at": "2024-10-22T12:38:55.687633+01:00", "site": "12", "val": 3}, Reason: Invalid site value, Offset: 545174
+Invalid: {"site": "5", "val": 3}, Reason: Missing at key, Offset: 545180
+Invalid: {"site": "5", "val": 3}, Reason: Invalid at value, Offset: 545180
+Invalid: {"at": "2024-10-22T12:39:23.691150+01:00", "site": "4"}, Reason: Missing val key, Offset: 545182
+Invalid: {"at": "2024-10-22T12:39:23.691150+01:00", "site": "4"}, Reason: Invalid val value, Offset: 545182
+Invalid: {"at": "2024-10-22T12:39:44.693178+01:00", "val": 4}, Reason: Missing site key, Offset: 545188
+Invalid: {"at": "2024-10-22T12:39:44.693178+01:00", "val": 4}, Reason: Invalid site value, Offset: 545188
+Invalid: {"at": "2024-10-22T12:40:28.698953+01:00", "site": "9", "val": 4}, Reason: Invalid site value, Offset: 545200
+Invalid: {"at": "2024-10-22T12:40:47.701290+01:00", "site": "12", "val": 3}, Reason: Invalid site value, Offset: 545206
+Invalid: {"at": "2024-10-22T12:41:25.705812+01:00", "site": "3", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 545216
+Invalid: {"at": "2024-10-22T12:41:52.709114+01:00", "site": "10", "val": 1}, Reason: Invalid site value, Offset: 545224
+Invalid: {"at": "2024-10-22T12:41:55.710640+01:00", "site": "4", "val": null}, Reason: Missing val key, Offset: 545225
+Invalid: {"at": "2024-10-22T12:41:55.710640+01:00", "site": "4", "val": null}, Reason: Invalid val value, Offset: 545225
+Invalid: {"at": "2024-10-22T12:42:20.715829+01:00", "site": "0", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 545232
+Invalid: {"at": "2024-10-22T12:43:12.722118+01:00", "site": "5", "val": null}, Reason: Missing val key, Offset: 545248
+Invalid: {"at": "2024-10-22T12:43:12.722118+01:00", "site": "5", "val": null}, Reason: Invalid val value, Offset: 545248
+Invalid: {"at": "2024-10-22T12:43:19.722902+01:00", "site": "0", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 545250
+Invalid: {"at": "2024-10-22T12:43:26.723563+01:00", "site": "1", "val": "INF"}, Reason: Invalid val value, Offset: 545252
+Invalid: {"at": "2024-10-22T12:43:41.725785+01:00", "site": "1", "val": -1, "type": null}, Reason: Invalid type value, Offset: 545257
+Invalid: {"site": "4", "val": 0}, Reason: Missing at key, Offset: 545262
+Invalid: {"site": "4", "val": 0}, Reason: Invalid at value, Offset: 545262
+Invalid: {"at": "2024-10-22T12:44:15.729073+01:00", "site": "3", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 545265
+Invalid: {"at": "2024-10-22T12:44:49.731769+01:00", "site": "3", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 545273
+Invalid: {"at": "2024-10-22T12:44:56.732722+01:00", "site": "2", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 545275
+Invalid: {"at": "2024-10-22T12:44:57.733240+01:00", "site": "4", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 545276
+Invalid: {"at": "2024-10-22T12:45:13.736082+01:00", "site": "9", "val": 2}, Reason: Invalid site value, Offset: 545282
+Invalid: {"at": "2024-10-22T12:45:17.736459+01:00", "site": "1", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 545283
+Invalid: {"site": "2", "val": 0}, Reason: Missing at key, Offset: 545288
+Invalid: {"site": "2", "val": 0}, Reason: Invalid at value, Offset: 545288
+Invalid: {"site": "5", "val": 1}, Reason: Missing at key, Offset: 545293
+Invalid: {"site": "5", "val": 1}, Reason: Invalid at value, Offset: 545293
+Invalid: {"site": "5", "val": 4}, Reason: Missing at key, Offset: 545305
+Invalid: {"site": "5", "val": 4}, Reason: Invalid at value, Offset: 545305
+Invalid: {"at": "2024-10-22T12:47:00.750792+01:00", "site": "0", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 545312
+Invalid: {"at": "2024-10-22T12:47:06.751907+01:00", "site": "4", "val": "ERR"}, Reason: Invalid val value, Offset: 545315
+Invalid: {"at": "2024-10-22T12:47:13.752530+01:00", "site": "10", "val": 4}, Reason: Invalid site value, Offset: 545317
+Invalid: {"at": "2024-10-22T12:47:24.753916+01:00", "site": "3", "val": -3}, Reason: Invalid val value, Offset: 545320
+Invalid: {"at": "2024-10-22T12:48:10.758441+01:00", "site": "3", "val": "INF"}, Reason: Invalid val value, Offset: 545332
+Invalid: {"at": "2024-10-22T12:48:18.759131+01:00", "site": "8", "val": 1}, Reason: Invalid site value, Offset: 545334
+Invalid: {"site": "3", "val": 4}, Reason: Missing at key, Offset: 545335
+Invalid: {"site": "3", "val": 4}, Reason: Invalid at value, Offset: 545335
+Invalid: {"at": "2024-10-22T12:48:32.760121+01:00", "site": "1", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 545337
+Invalid: {"at": "2024-10-22T12:48:33.760518+01:00", "site": "3", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 545338
+Invalid: {"at": "2024-10-22T12:48:34.761198+01:00", "site": "1", "val": 8}, Reason: Invalid val value, Offset: 545339
+Invalid: {"at": "2024-10-22T12:48:58.764169+01:00", "site": "10", "val": 3}, Reason: Invalid site value, Offset: 545346
+Invalid: {"at": "2024-10-22T12:49:01.764511+01:00", "site": "9", "val": 3}, Reason: Invalid site value, Offset: 545347
+Invalid: {"at": "2024-10-22T12:49:37.771300+01:00", "val": 2}, Reason: Missing site key, Offset: 545359
+Invalid: {"at": "2024-10-22T12:49:37.771300+01:00", "val": 2}, Reason: Invalid site value, Offset: 545359
+Invalid: {"at": "2024-10-22T12:49:46.772051+01:00", "site": "4"}, Reason: Missing val key, Offset: 545361
+Invalid: {"at": "2024-10-22T12:49:46.772051+01:00", "site": "4"}, Reason: Invalid val value, Offset: 545361
+Invalid: {"at": "2024-10-22T12:49:48.772583+01:00", "site": "0", "val": 9}, Reason: Invalid val value, Offset: 545362
+Invalid: {"at": "2024-10-22T12:50:23.775636+01:00", "site": "INF", "val": -1, "type": 1}, Reason: Invalid site value, Offset: 545371
+Invalid: {"at": "2024-10-22T12:50:25.775993+01:00", "site": "5", "val": -2}, Reason: Invalid val value, Offset: 545372
+Invalid: {"at": "2024-10-22T12:50:45.778183+01:00", "site": "4", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 545378
+Invalid: {"at": "2024-10-22T12:51:11.780703+01:00", "site": "4", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 545385
+Invalid: {"at": "2024-10-22T12:51:31.784271+01:00", "site": "INF", "val": 3}, Reason: Invalid site value, Offset: 545391
+Invalid: {"at": "2024-10-22T12:51:38.785025+01:00", "site": "2"}, Reason: Missing val key, Offset: 545393
+Invalid: {"at": "2024-10-22T12:51:38.785025+01:00", "site": "2"}, Reason: Invalid val value, Offset: 545393
+Invalid: {"at": "2024-10-22T12:51:56.786743+01:00", "site": "5"}, Reason: Missing val key, Offset: 545398
+Invalid: {"at": "2024-10-22T12:51:56.786743+01:00", "site": "5"}, Reason: Invalid val value, Offset: 545398
+Invalid: {"site": "5", "val": 2}, Reason: Missing at key, Offset: 545400
+Invalid: {"site": "5", "val": 2}, Reason: Invalid at value, Offset: 545400
+Invalid: {"at": "2024-10-22T12:52:30.794544+01:00", "site": "0", "val": -1, "type": 0}, Reason: Invalid type value, Offset: 545408
+Invalid: {"at": "2024-10-22T12:52:46.796079+01:00", "site": "4", "val": null}, Reason: Missing val key, Offset: 545411
+Invalid: {"at": "2024-10-22T12:52:46.796079+01:00", "site": "4", "val": null}, Reason: Invalid val value, Offset: 545411
+Invalid: {"site": "3", "val": 3}, Reason: Missing at key, Offset: 545412
+Invalid: {"site": "3", "val": 3}, Reason: Invalid at value, Offset: 545412
+Invalid: {"site": "0", "val": 3}, Reason: Missing at key, Offset: 545413
+Invalid: {"site": "0", "val": 3}, Reason: Invalid at value, Offset: 545413
+Invalid: {"at": "2024-10-22T12:53:02.797996+01:00", "val": 0}, Reason: Missing site key, Offset: 545416
+Invalid: {"at": "2024-10-22T12:53:02.797996+01:00", "val": 0}, Reason: Invalid site value, Offset: 545416
+Invalid: {"at": "2024-10-22T12:53:05.799054+01:00", "site": "6", "val": 3}, Reason: Invalid site value, Offset: 545417
+Invalid: {"at": "2024-10-22T12:53:11.799660+01:00", "val": 2}, Reason: Missing site key, Offset: 545418
+Invalid: {"at": "2024-10-22T12:53:11.799660+01:00", "val": 2}, Reason: Invalid site value, Offset: 545418
+Invalid: {"at": "2024-10-22T12:54:19.806633+01:00", "site": "4", "val": -3}, Reason: Invalid val value, Offset: 545435
+Invalid: {"at": "2024-10-22T12:54:39.809045+01:00", "site": "4", "val": 7}, Reason: Invalid val value, Offset: 545440
+Invalid: {"at": "2024-10-22T12:55:08.811540+01:00", "site": "1", "val": -3}, Reason: Invalid val value, Offset: 545447
+Invalid: {"at": "2024-10-22T12:55:09.811865+01:00", "site": "3", "val": -2, "type": 0}, Reason: Invalid val value, Offset: 545448
+Invalid: {"at": "2024-10-22T12:55:38.814568+01:00", "val": 1}, Reason: Missing site key, Offset: 545456
+Invalid: {"at": "2024-10-22T12:55:38.814568+01:00", "val": 1}, Reason: Invalid site value, Offset: 545456
+Invalid: {"at": "2024-10-22T12:55:39.814896+01:00", "site": "INF", "val": 0}, Reason: Invalid site value, Offset: 545457
+Invalid: {"at": "2024-10-22T12:55:58.816446+01:00", "site": "8", "val": 1}, Reason: Invalid site value, Offset: 545461
+Invalid: {"at": "2024-10-22T12:56:31.822087+01:00", "site": "None", "val": 2}, Reason: Invalid site value, Offset: 545471
+Invalid: {"at": "2024-10-22T12:56:53.824790+01:00", "site": "1", "val": -3}, Reason: Invalid val value, Offset: 545479
+Invalid: {"at": "2024-10-22T12:57:46.831655+01:00", "site": "5"}, Reason: Missing val key, Offset: 545494
+Invalid: {"at": "2024-10-22T12:57:46.831655+01:00", "site": "5"}, Reason: Invalid val value, Offset: 545494
+Invalid: {"at": "2024-10-22T12:58:16.834358+01:00", "site": "4", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 545502
+Invalid: {"at": "2024-10-22T12:58:39.837766+01:00", "site": "6", "val": 3}, Reason: Invalid site value, Offset: 545510
+Invalid: {"at": "2024-10-22T12:58:45.838451+01:00", "site": "5", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 545511
+Invalid: {"at": "2024-10-22T12:59:17.842227+01:00", "val": 1}, Reason: Missing site key, Offset: 545519
+Invalid: {"at": "2024-10-22T12:59:17.842227+01:00", "val": 1}, Reason: Invalid site value, Offset: 545519
+Invalid: {"at": "2024-10-22T12:59:21.842879+01:00", "site": "2", "val": "ERR"}, Reason: Invalid val value, Offset: 545521
+Invalid: {"at": "2024-10-22T13:00:45.852297+01:00", "site": "5", "val": -2}, Reason: Invalid val value, Offset: 545541
+Invalid: {"at": "2024-10-22T13:00:50.853724+01:00", "site": "4", "val": -3}, Reason: Invalid val value, Offset: 545544
+Invalid: {"site": "4", "val": 1}, Reason: Missing at key, Offset: 545545
+Invalid: {"site": "4", "val": 1}, Reason: Invalid at value, Offset: 545545
+Invalid: {"site": "4", "val": 4}, Reason: Missing at key, Offset: 545549
+Invalid: {"site": "4", "val": 4}, Reason: Invalid at value, Offset: 545549
+Invalid: {"at": "2024-10-22T13:01:41.860534+01:00", "site": "1", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 545560
+Invalid: {"at": "2024-10-22T13:02:02.863029+01:00", "site": "4", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 545566
+Invalid: {"at": "2024-10-22T13:02:15.866228+01:00", "site": "7", "val": 2}, Reason: Invalid site value, Offset: 545571
+Invalid: {"at": "2024-10-22T13:02:18.866682+01:00", "site": "11", "val": 1}, Reason: Invalid site value, Offset: 545572
+Invalid: {"site": "1", "val": -1, "type": 0}, Reason: Missing at key, Offset: 545583
+Invalid: {"site": "1", "val": -1, "type": 0}, Reason: Invalid at value, Offset: 545583
+Invalid: {"at": "2024-10-22T13:03:01.871396+01:00", "site": "1", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 545584
+Invalid: {"at": "2024-10-22T13:03:22.873530+01:00", "site": "2", "val": "INF"}, Reason: Invalid val value, Offset: 545589
+Invalid: {"at": "2024-10-22T13:03:26.873890+01:00", "site": "4", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 545590
+Invalid: {"at": "2024-10-22T13:03:47.875839+01:00", "site": "4", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 545595
+Invalid: {"at": "2024-10-22T13:04:03.877950+01:00", "site": "4", "val": "INF"}, Reason: Invalid val value, Offset: 545601
+Invalid: {"at": "2024-10-22T13:04:19.880476+01:00", "val": 1}, Reason: Missing site key, Offset: 545607
+Invalid: {"at": "2024-10-22T13:04:19.880476+01:00", "val": 1}, Reason: Invalid site value, Offset: 545607
+Invalid: {"at": "2024-10-22T13:04:44.882640+01:00", "site": "4", "val": -2}, Reason: Invalid val value, Offset: 545613
+Invalid: {"at": "2024-10-22T13:04:49.883037+01:00", "site": "2", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 545614
+Invalid: {"at": "2024-10-22T13:04:54.883725+01:00", "site": "8", "val": 3}, Reason: Invalid site value, Offset: 545616
+Invalid: {"at": "2024-10-22T13:05:17.889616+01:00", "site": "3", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 545621
+Invalid: {"at": "2024-10-22T13:05:28.893087+01:00", "site": "0", "val": "ERR"}, Reason: Invalid val value, Offset: 545624
+Invalid: {"at": "2024-10-22T13:05:40.894152+01:00", "site": "10", "val": 4}, Reason: Invalid site value, Offset: 545627
+Invalid: {"at": "2024-10-22T13:05:51.896066+01:00", "site": "7", "val": 1}, Reason: Invalid site value, Offset: 545632
+Invalid: {"at": "2024-10-22T13:06:09.898072+01:00", "site": "5", "val": 8}, Reason: Invalid val value, Offset: 545637
+Invalid: {"at": "2024-10-22T13:06:23.899070+01:00", "val": 2}, Reason: Missing site key, Offset: 545640
+Invalid: {"at": "2024-10-22T13:06:23.899070+01:00", "val": 2}, Reason: Invalid site value, Offset: 545640
+Invalid: {"at": "2024-10-22T13:06:37.900262+01:00", "site": "4", "val": 6}, Reason: Invalid val value, Offset: 545643
+Invalid: {"at": "2024-10-22T13:07:33.905227+01:00", "site": "3", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 545658
+Invalid: {"at": "2024-10-22T13:07:55.907745+01:00", "site": "8", "val": 0}, Reason: Invalid site value, Offset: 545665
+Invalid: {"at": "2024-10-22T13:08:08.909139+01:00", "site": "4", "val": 9}, Reason: Invalid val value, Offset: 545668
+Invalid: {"at": "2024-10-22T13:08:42.914103+01:00", "site": "12", "val": 4}, Reason: Invalid site value, Offset: 545678
+Invalid: {"at": "2024-10-22T13:09:01.916618+01:00", "site": "5", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 545684
+Invalid: {"site": "0", "val": 3}, Reason: Missing at key, Offset: 545693
+Invalid: {"site": "0", "val": 3}, Reason: Invalid at value, Offset: 545693
+Invalid: {"at": "2024-10-22T13:09:36.920932+01:00", "site": "4"}, Reason: Missing val key, Offset: 545695
+Invalid: {"at": "2024-10-22T13:09:36.920932+01:00", "site": "4"}, Reason: Invalid val value, Offset: 545695
+Invalid: {"at": "2024-10-22T13:09:38.922634+01:00", "site": "None", "val": 4}, Reason: Invalid site value, Offset: 545696
+Invalid: {"at": "2024-10-22T13:09:54.924606+01:00", "site": "12", "val": 3}, Reason: Invalid site value, Offset: 545700
+Invalid: {"at": "2024-10-22T13:10:26.928321+01:00", "site": "1", "val": -3}, Reason: Invalid val value, Offset: 545708
+Invalid: {"at": "2024-10-22T13:10:33.929101+01:00", "site": "0", "val": -1, "type": null}, Reason: Invalid type value, Offset: 545710
+Invalid: {"at": "2024-10-22T13:11:32.936486+01:00", "val": 0}, Reason: Missing site key, Offset: 545723
+Invalid: {"at": "2024-10-22T13:11:32.936486+01:00", "val": 0}, Reason: Invalid site value, Offset: 545723
+Invalid: {"at": "2024-10-22T13:11:38.937181+01:00", "site": "5", "val": null}, Reason: Missing val key, Offset: 545725
+Invalid: {"at": "2024-10-22T13:11:38.937181+01:00", "site": "5", "val": null}, Reason: Invalid val value, Offset: 545725
+Invalid: {"at": "2024-10-22T13:11:40.937489+01:00", "site": "1", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 545726
+Invalid: {"at": "2024-10-22T13:12:20.943311+01:00", "site": "2", "val": 7}, Reason: Invalid val value, Offset: 545740
+Invalid: {"at": "2024-10-22T13:12:30.946513+01:00", "site": "4"}, Reason: Missing val key, Offset: 545744
+Invalid: {"at": "2024-10-22T13:12:30.946513+01:00", "site": "4"}, Reason: Invalid val value, Offset: 545744
+Invalid: {"at": "2024-10-22T13:12:42.950893+01:00", "site": "1", "val": 8}, Reason: Invalid val value, Offset: 545747
+Invalid: {"site": "3", "val": 1}, Reason: Missing at key, Offset: 545748
+Invalid: {"site": "3", "val": 1}, Reason: Invalid at value, Offset: 545748
+Invalid: {"at": "2024-10-22T13:12:54.952453+01:00", "site": "4", "val": 8, "type": 1}, Reason: Invalid val value, Offset: 545751
+Invalid: {"at": "2024-10-22T13:13:05.953393+01:00", "site": "0"}, Reason: Missing val key, Offset: 545753
+Invalid: {"at": "2024-10-22T13:13:05.953393+01:00", "site": "0"}, Reason: Invalid val value, Offset: 545753
+Invalid: {"at": "2024-10-22T13:13:59.959757+01:00", "site": "4", "val": 8}, Reason: Invalid val value, Offset: 545768
+Invalid: {"at": "2024-10-22T13:14:56.965941+01:00", "site": "8", "val": 2}, Reason: Invalid site value, Offset: 545784
+Invalid: {"at": "2024-10-22T13:15:27.970294+01:00", "site": "None", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 545793
+Invalid: {"at": "2024-10-22T13:15:34.972864+01:00", "val": 1}, Reason: Missing site key, Offset: 545795
+Invalid: {"at": "2024-10-22T13:15:34.972864+01:00", "val": 1}, Reason: Invalid site value, Offset: 545795
+Invalid: {"at": "2024-10-22T13:15:45.974317+01:00", "site": "1"}, Reason: Missing val key, Offset: 545798
+Invalid: {"at": "2024-10-22T13:15:45.974317+01:00", "site": "1"}, Reason: Invalid val value, Offset: 545798
+Invalid: {"site": "3", "val": 1}, Reason: Missing at key, Offset: 545809
+Invalid: {"site": "3", "val": 1}, Reason: Invalid at value, Offset: 545809
+Invalid: {"site": "0", "val": 4}, Reason: Missing at key, Offset: 545813
+Invalid: {"site": "0", "val": 4}, Reason: Invalid at value, Offset: 545813
+Invalid: {"at": "2024-10-22T13:16:40.981900+01:00", "site": "3", "val": 8}, Reason: Invalid val value, Offset: 545817
+Invalid: {"at": "2024-10-22T13:17:06.985547+01:00", "site": "1", "val": "ERR"}, Reason: Invalid val value, Offset: 545825
+Invalid: {"at": "2024-10-22T13:17:11.986679+01:00", "site": "6", "val": 0}, Reason: Invalid site value, Offset: 545828
+Invalid: {"at": "2024-10-22T13:17:47.991763+01:00", "site": "2", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 545838
+Invalid: {"at": "2024-10-22T13:18:15.994715+01:00", "site": "0", "val": -1, "type": null}, Reason: Invalid type value, Offset: 545845
+Invalid: {"at": "2024-10-22T13:18:20.995391+01:00", "site": "1", "val": "ERR"}, Reason: Invalid val value, Offset: 545847
+Invalid: {"at": "2024-10-22T13:18:27.996010+01:00", "site": "ERR", "val": 4}, Reason: Invalid site value, Offset: 545849
+Invalid: {"at": "2024-10-22T13:18:39.997118+01:00", "val": 2}, Reason: Missing site key, Offset: 545852
+Invalid: {"at": "2024-10-22T13:18:39.997118+01:00", "val": 2}, Reason: Invalid site value, Offset: 545852
+Invalid: {"at": "2024-10-22T13:18:50.998361+01:00", "site": "2", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 545855
+Invalid: {"at": "2024-10-22T13:18:55.998702+01:00", "site": "11", "val": 3}, Reason: Invalid site value, Offset: 545856
+Invalid: {"at": "2024-10-22T13:19:40.005287+01:00", "site": "2"}, Reason: Missing val key, Offset: 545868
+Invalid: {"at": "2024-10-22T13:19:40.005287+01:00", "site": "2"}, Reason: Invalid val value, Offset: 545868
+Invalid: {"at": "2024-10-22T13:19:48.006366+01:00", "site": "9", "val": 2}, Reason: Invalid site value, Offset: 545871
+Invalid: {"at": "2024-10-22T13:20:04.008261+01:00", "site": "8", "val": 4}, Reason: Invalid site value, Offset: 545876
+Invalid: {"at": "2024-10-22T13:20:55.013658+01:00", "site": "INF", "val": 4}, Reason: Invalid site value, Offset: 545890
+Invalid: {"at": "2024-10-22T13:21:34.019450+01:00", "site": "0", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 545899
+Invalid: {"at": "2024-10-22T13:22:04.026290+01:00", "site": "1", "val": -1, "type": null}, Reason: Invalid type value, Offset: 545908
+Invalid: {"at": "2024-10-22T13:22:19.027901+01:00", "val": 3}, Reason: Missing site key, Offset: 545913
+Invalid: {"at": "2024-10-22T13:22:19.027901+01:00", "val": 3}, Reason: Invalid site value, Offset: 545913
+Invalid: {"at": "2024-10-22T13:23:16.035150+01:00", "site": "8", "val": 2}, Reason: Invalid site value, Offset: 545927
+Invalid: {"at": "2024-10-22T13:23:36.037320+01:00", "site": "1", "val": null}, Reason: Missing val key, Offset: 545933
+Invalid: {"at": "2024-10-22T13:23:36.037320+01:00", "site": "1", "val": null}, Reason: Invalid val value, Offset: 545933
+Invalid: {"at": "2024-10-22T13:24:01.041244+01:00", "site": "2", "val": 5}, Reason: Invalid val value, Offset: 545942
+Invalid: {"at": "2024-10-22T13:24:48.049764+01:00", "site": "9", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 545957
+Invalid: {"site": "2", "val": 1}, Reason: Missing at key, Offset: 545960
+Invalid: {"site": "2", "val": 1}, Reason: Invalid at value, Offset: 545960
+Invalid: {"at": "2024-10-22T13:24:57.051081+01:00", "site": "1", "val": 9}, Reason: Invalid val value, Offset: 545961
+Invalid: {"at": "2024-10-22T13:25:11.054213+01:00", "site": "4"}, Reason: Missing val key, Offset: 545967
+Invalid: {"at": "2024-10-22T13:25:11.054213+01:00", "site": "4"}, Reason: Invalid val value, Offset: 545967
+Invalid: {"at": "2024-10-22T13:25:25.055348+01:00", "site": "5", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 545970
+Invalid: {"at": "2024-10-22T13:25:27.055724+01:00", "site": "8", "val": 2}, Reason: Invalid site value, Offset: 545971
+Invalid: {"at": "2024-10-22T13:25:50.057485+01:00", "site": "3", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 545976
+Invalid: {"at": "2024-10-22T13:26:03.059570+01:00", "val": 0}, Reason: Missing site key, Offset: 545979
+Invalid: {"at": "2024-10-22T13:26:03.059570+01:00", "val": 0}, Reason: Invalid site value, Offset: 545979
+Invalid: {"at": "2024-10-22T13:26:09.059980+01:00", "site": "2", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 545980
+Invalid: {"at": "2024-10-22T13:26:13.060311+01:00", "site": "0", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 545981
+Invalid: {"site": "5", "val": 4}, Reason: Missing at key, Offset: 545991
+Invalid: {"site": "5", "val": 4}, Reason: Invalid at value, Offset: 545991
+Invalid: {"at": "2024-10-22T13:26:53.068251+01:00", "site": "4"}, Reason: Missing val key, Offset: 545994
+Invalid: {"at": "2024-10-22T13:26:53.068251+01:00", "site": "4"}, Reason: Invalid val value, Offset: 545994
+Invalid: {"at": "2024-10-22T13:27:02.069447+01:00", "site": "ERR", "val": 2}, Reason: Invalid site value, Offset: 545997
+Invalid: {"at": "2024-10-22T13:27:15.071608+01:00", "site": "9", "val": 2}, Reason: Invalid site value, Offset: 546002
+Invalid: {"at": "2024-10-22T13:27:22.072755+01:00", "site": "3", "val": "ERR"}, Reason: Invalid val value, Offset: 546004
+Invalid: {"at": "2024-10-22T13:27:51.075959+01:00", "site": "4", "val": 8}, Reason: Invalid val value, Offset: 546013
+Invalid: {"at": "2024-10-22T13:27:58.083709+01:00", "site": "7", "val": 1}, Reason: Invalid site value, Offset: 546016
+Invalid: {"at": "2024-10-22T13:28:07.085339+01:00", "site": "4", "val": 5}, Reason: Invalid val value, Offset: 546020
+Invalid: {"at": "2024-10-22T13:29:02.092339+01:00", "site": "2", "val": 7}, Reason: Invalid val value, Offset: 546036
+Invalid: {"site": "4", "val": 1}, Reason: Missing at key, Offset: 546039
+Invalid: {"site": "4", "val": 1}, Reason: Invalid at value, Offset: 546039
+Invalid: {"at": "2024-10-22T13:29:13.093600+01:00", "site": "10", "val": 2}, Reason: Invalid site value, Offset: 546040
+Invalid: {"at": "2024-10-22T13:29:36.097071+01:00", "site": "9", "val": 1}, Reason: Invalid site value, Offset: 546047
+Invalid: {"at": "2024-10-22T13:31:26.110645+01:00", "site": "2", "val": 7}, Reason: Invalid val value, Offset: 546075
+Invalid: {"at": "2024-10-22T13:31:45.112693+01:00", "val": 4}, Reason: Missing site key, Offset: 546081
+Invalid: {"at": "2024-10-22T13:31:45.112693+01:00", "val": 4}, Reason: Invalid site value, Offset: 546081
+Invalid: {"at": "2024-10-22T13:32:10.115554+01:00", "site": "2", "val": 8}, Reason: Invalid val value, Offset: 546089
+Invalid: {"at": "2024-10-22T13:32:20.118273+01:00", "site": "3", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 546092
+Invalid: {"at": "2024-10-22T13:33:20.125836+01:00", "site": "10", "val": 0}, Reason: Invalid site value, Offset: 546108
+Invalid: {"site": "3", "val": -1, "type": 0}, Reason: Missing at key, Offset: 546109
+Invalid: {"site": "3", "val": -1, "type": 0}, Reason: Invalid at value, Offset: 546109
+Invalid: {"at": "2024-10-22T13:33:36.127272+01:00", "site": "4"}, Reason: Missing val key, Offset: 546112
+Invalid: {"at": "2024-10-22T13:33:36.127272+01:00", "site": "4"}, Reason: Invalid val value, Offset: 546112
+Invalid: {"site": "4", "val": 0}, Reason: Missing at key, Offset: 546116
+Invalid: {"site": "4", "val": 0}, Reason: Invalid at value, Offset: 546116
+Invalid: {"at": "2024-10-22T13:33:47.129116+01:00", "site": "1", "val": 9}, Reason: Invalid val value, Offset: 546117
+Invalid: {"at": "2024-10-22T13:34:38.134886+01:00", "site": "None", "val": 2}, Reason: Invalid site value, Offset: 546131
+Invalid: {"at": "2024-10-22T13:34:46.136118+01:00", "site": "11", "val": 0}, Reason: Invalid site value, Offset: 546134
+Invalid: {"site": "4", "val": 0}, Reason: Missing at key, Offset: 546135
+Invalid: {"site": "4", "val": 0}, Reason: Invalid at value, Offset: 546135
+Invalid: {"at": "2024-10-22T13:34:48.137085+01:00", "site": "4", "val": "INF"}, Reason: Invalid val value, Offset: 546136
+Invalid: {"site": "5", "val": 3}, Reason: Missing at key, Offset: 546138
+Invalid: {"site": "5", "val": 3}, Reason: Invalid at value, Offset: 546138
+Invalid: {"at": "2024-10-22T13:35:04.138992+01:00", "site": "4", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 546141
+Invalid: {"at": "2024-10-22T13:35:13.140520+01:00", "site": "3", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 546144
+Invalid: {"at": "2024-10-22T13:35:42.143812+01:00", "site": "1", "val": 6}, Reason: Invalid val value, Offset: 546153
+Invalid: {"at": "2024-10-22T13:35:45.144165+01:00", "site": "9", "val": 2}, Reason: Invalid site value, Offset: 546154
+Invalid: {"at": "2024-10-22T13:36:02.146200+01:00", "val": -1, "type": 0}, Reason: Missing site key, Offset: 546160
+Invalid: {"at": "2024-10-22T13:36:02.146200+01:00", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 546160
+Invalid: {"at": "2024-10-22T13:36:16.147775+01:00", "site": "4", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 546164
+Invalid: {"at": "2024-10-22T13:37:01.153553+01:00", "site": "1", "val": null}, Reason: Missing val key, Offset: 546177
+Invalid: {"at": "2024-10-22T13:37:01.153553+01:00", "site": "1", "val": null}, Reason: Invalid val value, Offset: 546177
+Invalid: {"site": "3", "val": 3}, Reason: Missing at key, Offset: 546191
+Invalid: {"site": "3", "val": 3}, Reason: Invalid at value, Offset: 546191
+Invalid: {"at": "2024-10-22T13:38:14.162178+01:00", "site": "0", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 546198
+Invalid: {"at": "2024-10-22T13:38:19.162664+01:00", "site": "5", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 546199
+Invalid: {"at": "2024-10-22T13:38:22.163479+01:00", "site": "12", "val": 0}, Reason: Invalid site value, Offset: 546200
+Invalid: {"at": "2024-10-22T13:39:11.168586+01:00", "site": "3", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 546212
+Invalid: {"at": "2024-10-22T13:39:39.171811+01:00", "site": "5", "val": 6}, Reason: Invalid val value, Offset: 546221
+Invalid: {"at": "2024-10-22T13:39:56.173449+01:00", "site": "10", "val": 4}, Reason: Invalid site value, Offset: 546226
+Invalid: {"at": "2024-10-22T13:40:14.174829+01:00", "site": "2", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 546230
+Invalid: {"at": "2024-10-22T13:40:28.176485+01:00", "val": 4}, Reason: Missing site key, Offset: 546234
+Invalid: {"at": "2024-10-22T13:40:28.176485+01:00", "val": 4}, Reason: Invalid site value, Offset: 546234
+Invalid: {"at": "2024-10-22T13:40:55.180691+01:00", "site": "2", "val": -1, "type": null}, Reason: Invalid type value, Offset: 546244
+Invalid: {"at": "2024-10-22T13:41:53.190054+01:00", "site": "3"}, Reason: Missing val key, Offset: 546259
+Invalid: {"at": "2024-10-22T13:41:53.190054+01:00", "site": "3"}, Reason: Invalid val value, Offset: 546259
+Invalid: {"at": "2024-10-22T13:42:03.190719+01:00", "site": "9", "val": 1}, Reason: Invalid site value, Offset: 546261
+Invalid: {"at": "2024-10-22T13:42:11.192430+01:00", "site": "1", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 546265
+Invalid: {"at": "2024-10-22T13:42:14.193945+01:00", "site": "1", "val": 6}, Reason: Invalid val value, Offset: 546266
+Invalid: {"at": "2024-10-22T13:42:18.194456+01:00", "val": 2}, Reason: Missing site key, Offset: 546267
+Invalid: {"at": "2024-10-22T13:42:18.194456+01:00", "val": 2}, Reason: Invalid site value, Offset: 546267
+Invalid: {"at": "2024-10-22T13:43:16.200468+01:00", "site": "5", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 546282
+Invalid: {"site": "1", "val": 3}, Reason: Missing at key, Offset: 546285
+Invalid: {"site": "1", "val": 3}, Reason: Invalid at value, Offset: 546285
+Invalid: {"at": "2024-10-22T13:43:42.203704+01:00", "val": 2}, Reason: Missing site key, Offset: 546290
+Invalid: {"at": "2024-10-22T13:43:42.203704+01:00", "val": 2}, Reason: Invalid site value, Offset: 546290
+Invalid: {"site": "4", "val": 1}, Reason: Missing at key, Offset: 546300
+Invalid: {"site": "4", "val": 1}, Reason: Invalid at value, Offset: 546300
+Invalid: {"at": "2024-10-22T13:45:04.214595+01:00", "val": 2}, Reason: Missing site key, Offset: 546313
+Invalid: {"at": "2024-10-22T13:45:04.214595+01:00", "val": 2}, Reason: Invalid site value, Offset: 546313
+Invalid: {"at": "2024-10-22T13:45:12.216522+01:00", "site": "5", "val": -2}, Reason: Invalid val value, Offset: 546317
+Invalid: {"at": "2024-10-22T13:46:26.223980+01:00", "site": "5", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 546337
+Invalid: {"site": "4", "val": 0}, Reason: Missing at key, Offset: 546343
+Invalid: {"site": "4", "val": 0}, Reason: Invalid at value, Offset: 546343
+Invalid: {"at": "2024-10-22T13:47:56.234870+01:00", "site": "11", "val": 2}, Reason: Invalid site value, Offset: 546360
+Invalid: {"at": "2024-10-22T13:47:59.235723+01:00", "val": 1}, Reason: Missing site key, Offset: 546362
+Invalid: {"at": "2024-10-22T13:47:59.235723+01:00", "val": 1}, Reason: Invalid site value, Offset: 546362
+Invalid: {"at": "2024-10-22T13:48:12.237146+01:00", "site": "3"}, Reason: Missing val key, Offset: 546366
+Invalid: {"at": "2024-10-22T13:48:12.237146+01:00", "site": "3"}, Reason: Invalid val value, Offset: 546366
+Invalid: {"at": "2024-10-22T13:48:18.237487+01:00", "site": "None", "val": 2}, Reason: Invalid site value, Offset: 546367
+Invalid: {"at": "2024-10-22T13:48:21.237869+01:00", "site": "4", "val": -3}, Reason: Invalid val value, Offset: 546368
+Invalid: {"at": "2024-10-22T13:49:14.246039+01:00", "site": "2", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 546385
+Invalid: {"at": "2024-10-22T13:49:19.246638+01:00", "site": "INF", "val": 0}, Reason: Invalid site value, Offset: 546386
+Invalid: {"at": "2024-10-22T13:49:33.248171+01:00", "site": "1", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 546389
+Invalid: {"at": "2024-10-22T13:49:34.248527+01:00", "site": "9", "val": 3}, Reason: Invalid site value, Offset: 546390
+Invalid: {"at": "2024-10-22T13:49:43.249550+01:00", "val": 4}, Reason: Missing site key, Offset: 546393
+Invalid: {"at": "2024-10-22T13:49:43.249550+01:00", "val": 4}, Reason: Invalid site value, Offset: 546393
+Invalid: {"at": "2024-10-22T13:49:55.251611+01:00", "site": "INF", "val": 2}, Reason: Invalid site value, Offset: 546398
+Invalid: {"at": "2024-10-22T13:50:21.254300+01:00", "site": "7", "val": 1}, Reason: Invalid site value, Offset: 546405
+Invalid: {"at": "2024-10-22T13:50:35.256153+01:00", "site": "1", "val": -1, "type": null}, Reason: Invalid type value, Offset: 546410
+Invalid: {"at": "2024-10-22T13:50:58.259020+01:00", "site": "5", "val": "INF"}, Reason: Invalid val value, Offset: 546418
+Invalid: {"at": "2024-10-22T13:51:11.260615+01:00", "site": "1", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 546422
+Invalid: {"at": "2024-10-22T13:51:25.262714+01:00", "site": "3", "val": -1, "type": null}, Reason: Invalid type value, Offset: 546427
+Invalid: {"at": "2024-10-22T13:51:50.265380+01:00", "site": "9", "val": 1}, Reason: Invalid site value, Offset: 546433
+Invalid: {"at": "2024-10-22T13:51:55.265899+01:00", "site": "4", "val": -2}, Reason: Invalid val value, Offset: 546434
+Invalid: {"at": "2024-10-22T13:51:59.266326+01:00", "site": "None", "val": 4}, Reason: Invalid site value, Offset: 546435
+Invalid: {"at": "2024-10-22T13:52:03.266812+01:00", "site": "8", "val": 2}, Reason: Invalid site value, Offset: 546436
+Invalid: {"at": "2024-10-22T13:52:53.273361+01:00", "site": "5", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 546450
+Invalid: {"site": "0", "val": 2}, Reason: Missing at key, Offset: 546458
+Invalid: {"site": "0", "val": 2}, Reason: Invalid at value, Offset: 546458
+Invalid: {"at": "2024-10-22T13:53:20.276753+01:00", "site": "12", "val": 1}, Reason: Invalid site value, Offset: 546459
+Invalid: {"site": "0", "val": 2}, Reason: Missing at key, Offset: 546465
+Invalid: {"site": "0", "val": 2}, Reason: Invalid at value, Offset: 546465
+Invalid: {"at": "2024-10-22T13:53:55.282833+01:00", "site": "3", "val": "ERR"}, Reason: Invalid val value, Offset: 546469
+Invalid: {"at": "2024-10-22T13:54:43.290408+01:00", "site": "3", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 546483
+Invalid: {"at": "2024-10-22T13:55:13.293487+01:00", "site": "5", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 546491
+Invalid: {"at": "2024-10-22T13:56:08.299466+01:00", "site": "4", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 546504
+Invalid: {"at": "2024-10-22T13:56:12.299806+01:00", "site": "2", "val": 8}, Reason: Invalid val value, Offset: 546505
+Invalid: {"at": "2024-10-22T13:56:41.303775+01:00", "site": "1", "val": 5}, Reason: Invalid val value, Offset: 546513
+Invalid: {"at": "2024-10-22T13:57:04.307345+01:00", "site": "3", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 546519
+Invalid: {"at": "2024-10-22T13:57:23.309088+01:00", "site": "ERR", "val": 1}, Reason: Invalid site value, Offset: 546524
+Invalid: {"at": "2024-10-22T13:57:33.310165+01:00", "site": "4", "val": 6}, Reason: Invalid val value, Offset: 546526
+Invalid: {"at": "2024-10-22T13:57:38.310849+01:00", "site": "5", "val": -1, "type": null}, Reason: Invalid type value, Offset: 546528
+Invalid: {"at": "2024-10-22T13:57:41.311764+01:00", "site": "1", "val": 7}, Reason: Invalid val value, Offset: 546530
+Invalid: {"site": "2", "val": 2}, Reason: Missing at key, Offset: 546538
+Invalid: {"site": "2", "val": 2}, Reason: Invalid at value, Offset: 546538
+Invalid: {"at": "2024-10-22T13:58:14.317169+01:00", "site": "0", "val": "INF"}, Reason: Invalid val value, Offset: 546540
+Invalid: {"at": "2024-10-22T13:58:18.317582+01:00", "site": "None", "val": 2}, Reason: Invalid site value, Offset: 546541
+Invalid: {"site": "4", "val": 1}, Reason: Missing at key, Offset: 546546
+Invalid: {"site": "4", "val": 1}, Reason: Invalid at value, Offset: 546546
+Invalid: {"at": "2024-10-22T13:59:01.324026+01:00", "site": "4", "val": null}, Reason: Missing val key, Offset: 546551
+Invalid: {"at": "2024-10-22T13:59:01.324026+01:00", "site": "4", "val": null}, Reason: Invalid val value, Offset: 546551
+Invalid: {"at": "2024-10-22T13:59:35.327312+01:00", "site": "3", "val": null}, Reason: Missing val key, Offset: 546560
+Invalid: {"at": "2024-10-22T13:59:35.327312+01:00", "site": "3", "val": null}, Reason: Invalid val value, Offset: 546560
+Invalid: {"at": "2024-10-22T13:59:46.328247+01:00", "site": "1", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 546562
+Invalid: {"at": "2024-10-22T14:01:05.343832+01:00", "site": "4"}, Reason: Missing val key, Offset: 546587
+Invalid: {"at": "2024-10-22T14:01:05.343832+01:00", "site": "4"}, Reason: Invalid val value, Offset: 546587
+Invalid: {"at": "2024-10-22T14:01:33.346902+01:00", "site": "3", "val": null}, Reason: Missing val key, Offset: 546594
+Invalid: {"at": "2024-10-22T14:01:33.346902+01:00", "site": "3", "val": null}, Reason: Invalid val value, Offset: 546594
+Invalid: {"at": "2024-10-22T14:01:38.347238+01:00", "site": "10", "val": 1}, Reason: Invalid site value, Offset: 546595
+Invalid: {"at": "2024-10-22T14:01:45.348219+01:00", "site": "0", "val": 9}, Reason: Invalid val value, Offset: 546597
+Invalid: {"at": "2024-10-22T14:01:46.348528+01:00", "site": "5"}, Reason: Missing val key, Offset: 546598
+Invalid: {"at": "2024-10-22T14:01:46.348528+01:00", "site": "5"}, Reason: Invalid val value, Offset: 546598
+Invalid: {"at": "2024-10-22T14:03:17.359753+01:00", "site": "2", "val": -2}, Reason: Invalid val value, Offset: 546625
+Invalid: {"at": "2024-10-22T14:03:51.363191+01:00", "site": "11", "val": 3}, Reason: Invalid site value, Offset: 546635
+Invalid: {"at": "2024-10-22T14:03:52.363569+01:00", "site": "2", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 546636
+Invalid: {"at": "2024-10-22T14:05:00.370726+01:00", "site": "5", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 546656
+Invalid: {"site": "1", "val": 2}, Reason: Missing at key, Offset: 546662
+Invalid: {"site": "1", "val": 2}, Reason: Invalid at value, Offset: 546662
+Invalid: {"at": "2024-10-22T14:05:35.375142+01:00", "site": "0", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 546665
+Invalid: {"at": "2024-10-22T14:05:41.375532+01:00", "site": "0"}, Reason: Missing val key, Offset: 546666
+Invalid: {"at": "2024-10-22T14:05:41.375532+01:00", "site": "0"}, Reason: Invalid val value, Offset: 546666
+Invalid: {"at": "2024-10-22T14:05:46.376260+01:00", "site": "3", "val": 8}, Reason: Invalid val value, Offset: 546668
+Invalid: {"at": "2024-10-22T14:05:52.376613+01:00", "site": "2", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 546669
+Invalid: {"at": "2024-10-22T14:05:56.377373+01:00", "val": 0}, Reason: Missing site key, Offset: 546671
+Invalid: {"at": "2024-10-22T14:05:56.377373+01:00", "val": 0}, Reason: Invalid site value, Offset: 546671
+Invalid: {"at": "2024-10-22T14:06:12.379167+01:00", "site": "10", "val": 0}, Reason: Invalid site value, Offset: 546676
+Invalid: {"at": "2024-10-22T14:07:10.384759+01:00", "site": "12", "val": 3}, Reason: Invalid site value, Offset: 546691
+Invalid: {"site": "4", "val": 0}, Reason: Missing at key, Offset: 546702
+Invalid: {"site": "4", "val": 0}, Reason: Invalid at value, Offset: 546702
+Invalid: {"at": "2024-10-22T14:07:55.392051+01:00", "site": "2", "val": null, "type": 0}, Reason: Missing val key, Offset: 546704
+Invalid: {"at": "2024-10-22T14:07:55.392051+01:00", "site": "2", "val": null, "type": 0}, Reason: Invalid val value, Offset: 546704
+Invalid: {"at": "2024-10-22T14:08:02.393056+01:00", "site": "9", "val": 0}, Reason: Invalid site value, Offset: 546707
+Invalid: {"at": "2024-10-22T14:08:05.393461+01:00", "site": "3", "val": 9}, Reason: Invalid val value, Offset: 546708
+Invalid: {"at": "2024-10-22T14:08:37.396432+01:00", "site": "0", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 546716
+Invalid: {"at": "2024-10-22T14:08:49.397862+01:00", "site": "0", "val": -2}, Reason: Invalid val value, Offset: 546720
+Invalid: {"at": "2024-10-22T14:08:52.398206+01:00", "site": "4", "val": -2}, Reason: Invalid val value, Offset: 546721
+Invalid: {"at": "2024-10-22T14:09:07.400307+01:00", "site": "4", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 546725
+Invalid: {"at": "2024-10-22T14:09:09.400654+01:00", "site": "3", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 546726
+Invalid: {"at": "2024-10-22T14:10:21.413800+01:00", "site": "9", "val": 0}, Reason: Invalid site value, Offset: 546746
+Invalid: {"site": "1", "val": 2}, Reason: Missing at key, Offset: 546748
+Invalid: {"site": "1", "val": 2}, Reason: Invalid at value, Offset: 546748
+Invalid: {"at": "2024-10-22T14:10:39.415843+01:00", "site": "8", "val": 2}, Reason: Invalid site value, Offset: 546751
+Invalid: {"at": "2024-10-22T14:10:40.416178+01:00", "site": "1", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 546752
+Invalid: {"at": "2024-10-22T14:10:51.417550+01:00", "site": "None", "val": 1}, Reason: Invalid site value, Offset: 546755
+Invalid: {"at": "2024-10-22T14:11:02.419198+01:00", "site": "ERR", "val": 4}, Reason: Invalid site value, Offset: 546758
+Invalid: {"at": "2024-10-22T14:12:26.431323+01:00", "site": "2", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 546782
+Invalid: {"at": "2024-10-22T14:12:34.431950+01:00", "site": "1", "val": -3}, Reason: Invalid val value, Offset: 546784
+Invalid: {"at": "2024-10-22T14:12:54.433624+01:00", "site": "3", "val": 9}, Reason: Invalid val value, Offset: 546788
+Invalid: {"at": "2024-10-22T14:13:00.434509+01:00", "site": "5", "val": -3}, Reason: Invalid val value, Offset: 546790
+Invalid: {"at": "2024-10-22T14:13:06.434888+01:00", "site": "5", "val": -2}, Reason: Invalid val value, Offset: 546791
+Invalid: {"at": "2024-10-22T14:13:08.435227+01:00", "site": "INF", "val": 1}, Reason: Invalid site value, Offset: 546792
+Invalid: {"at": "2024-10-22T14:13:51.441384+01:00", "site": "4"}, Reason: Missing val key, Offset: 546805
+Invalid: {"at": "2024-10-22T14:13:51.441384+01:00", "site": "4"}, Reason: Invalid val value, Offset: 546805
+Invalid: {"at": "2024-10-22T14:13:53.441867+01:00", "site": "3", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 546806
+Invalid: {"at": "2024-10-22T14:14:05.443812+01:00", "site": "5"}, Reason: Missing val key, Offset: 546810
+Invalid: {"at": "2024-10-22T14:14:05.443812+01:00", "site": "5"}, Reason: Invalid val value, Offset: 546810
+Invalid: {"at": "2024-10-22T14:15:19.451216+01:00", "site": "10", "val": 0}, Reason: Invalid site value, Offset: 546831
+Invalid: {"at": "2024-10-22T14:16:04.459496+01:00", "site": "3"}, Reason: Missing val key, Offset: 546847
+Invalid: {"at": "2024-10-22T14:16:04.459496+01:00", "site": "3"}, Reason: Invalid val value, Offset: 546847
+Invalid: {"at": "2024-10-22T14:16:26.462769+01:00", "site": "1", "val": 6}, Reason: Invalid val value, Offset: 546855
+Invalid: {"at": "2024-10-22T14:16:30.463807+01:00", "site": "12", "val": 3}, Reason: Invalid site value, Offset: 546857
+Invalid: {"at": "2024-10-22T14:16:36.465410+01:00", "site": "4", "val": 6}, Reason: Invalid val value, Offset: 546859
+Invalid: {"at": "2024-10-22T14:16:39.465743+01:00", "site": "5", "val": -2}, Reason: Invalid val value, Offset: 546860
+Invalid: {"at": "2024-10-22T14:16:43.466040+01:00", "val": 3}, Reason: Missing site key, Offset: 546861
+Invalid: {"at": "2024-10-22T14:16:43.466040+01:00", "val": 3}, Reason: Invalid site value, Offset: 546861
+Invalid: {"at": "2024-10-22T14:16:57.468117+01:00", "site": "3", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 546865
+Invalid: {"at": "2024-10-22T14:17:24.471432+01:00", "site": "3", "val": 5, "type": 0}, Reason: Invalid val value, Offset: 546872
+Invalid: {"at": "2024-10-22T14:17:31.472088+01:00", "site": "1", "val": "ERR"}, Reason: Invalid val value, Offset: 546874
+Invalid: {"at": "2024-10-22T14:18:07.477121+01:00", "site": "5", "val": -2}, Reason: Invalid val value, Offset: 546886
+Invalid: {"at": "2024-10-22T14:18:27.480002+01:00", "site": "2", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 546890
+Invalid: {"at": "2024-10-22T14:18:32.480343+01:00", "site": "4", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 546891
+Invalid: {"at": "2024-10-22T14:19:13.485703+01:00", "site": "3", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 546904
+Invalid: {"site": "1", "val": 3}, Reason: Missing at key, Offset: 546905
+Invalid: {"site": "1", "val": 3}, Reason: Invalid at value, Offset: 546905
+Invalid: {"at": "2024-10-22T14:19:23.487128+01:00", "site": "4", "val": "ERR"}, Reason: Invalid val value, Offset: 546907
+Invalid: {"at": "2024-10-22T14:20:02.491987+01:00", "site": "7", "val": 0}, Reason: Invalid site value, Offset: 546918
+Invalid: {"at": "2024-10-22T14:20:19.493769+01:00", "site": "4", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 546921
+Invalid: {"at": "2024-10-22T14:20:39.496108+01:00", "val": 2}, Reason: Missing site key, Offset: 546926
+Invalid: {"at": "2024-10-22T14:20:39.496108+01:00", "val": 2}, Reason: Invalid site value, Offset: 546926
+Invalid: {"at": "2024-10-22T14:20:44.496858+01:00", "site": "3"}, Reason: Missing val key, Offset: 546928
+Invalid: {"at": "2024-10-22T14:20:44.496858+01:00", "site": "3"}, Reason: Invalid val value, Offset: 546928
+Invalid: {"at": "2024-10-22T14:21:04.498609+01:00", "val": 4}, Reason: Missing site key, Offset: 546933
+Invalid: {"at": "2024-10-22T14:21:04.498609+01:00", "val": 4}, Reason: Invalid site value, Offset: 546933
+Invalid: {"at": "2024-10-22T14:21:21.500765+01:00", "site": "1", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 546939
+Invalid: {"at": "2024-10-22T14:22:05.505541+01:00", "site": "2", "val": -1, "type": null}, Reason: Invalid type value, Offset: 546952
+Invalid: {"at": "2024-10-22T14:22:11.505965+01:00", "site": "INF", "val": 3}, Reason: Invalid site value, Offset: 546953
+Invalid: {"at": "2024-10-22T14:22:31.508849+01:00", "site": "6", "val": 1}, Reason: Invalid site value, Offset: 546961
+Invalid: {"at": "2024-10-22T14:23:00.513880+01:00", "site": "INF", "val": 2}, Reason: Invalid site value, Offset: 546971
+Invalid: {"at": "2024-10-22T14:23:37.519883+01:00", "site": "0", "val": 7}, Reason: Invalid val value, Offset: 546983
+Invalid: {"at": "2024-10-22T14:23:48.520910+01:00", "site": "4", "val": -1, "type": null}, Reason: Invalid type value, Offset: 546986
+Invalid: {"at": "2024-10-22T14:24:03.523879+01:00", "site": "11", "val": 0}, Reason: Invalid site value, Offset: 546990
+Invalid: {"at": "2024-10-22T14:24:12.524882+01:00", "site": "4", "val": -1, "type": null}, Reason: Invalid type value, Offset: 546993
+Invalid: {"at": "2024-10-22T14:24:21.526026+01:00", "site": "9", "val": 4}, Reason: Invalid site value, Offset: 546996
+Invalid: {"at": "2024-10-22T14:24:53.530427+01:00", "site": "5", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 547006
+Invalid: {"site": "5", "val": 4}, Reason: Missing at key, Offset: 547012
+Invalid: {"site": "5", "val": 4}, Reason: Invalid at value, Offset: 547012
+Invalid: {"at": "2024-10-22T14:26:12.539399+01:00", "site": "12", "val": 1}, Reason: Invalid site value, Offset: 547027
+Invalid: {"at": "2024-10-22T14:26:15.539865+01:00", "site": "ERR", "val": 1}, Reason: Invalid site value, Offset: 547028
+Invalid: {"site": "3", "val": 0}, Reason: Missing at key, Offset: 547037
+Invalid: {"site": "3", "val": 0}, Reason: Invalid at value, Offset: 547037
+Invalid: {"at": "2024-10-22T14:26:57.548270+01:00", "site": "3", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547042
+Invalid: {"at": "2024-10-22T14:27:27.553606+01:00", "site": "5", "val": "ERR"}, Reason: Invalid val value, Offset: 547050
+Invalid: {"at": "2024-10-22T14:27:37.555692+01:00", "site": "5", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 547052
+Invalid: {"at": "2024-10-22T14:27:46.556403+01:00", "site": "4", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547054
+Invalid: {"at": "2024-10-22T14:28:09.560501+01:00", "site": "INF", "val": 1}, Reason: Invalid site value, Offset: 547061
+Invalid: {"at": "2024-10-22T14:28:15.561374+01:00", "site": "4", "val": "ERR"}, Reason: Invalid val value, Offset: 547063
+Invalid: {"at": "2024-10-22T14:28:16.561766+01:00", "site": "3", "val": "INF"}, Reason: Invalid val value, Offset: 547064
+Invalid: {"at": "2024-10-22T14:28:58.566854+01:00", "site": "3", "val": 9}, Reason: Invalid val value, Offset: 547078
+Invalid: {"at": "2024-10-22T14:29:48.572495+01:00", "site": "3", "val": 5}, Reason: Invalid val value, Offset: 547090
+Invalid: {"at": "2024-10-22T14:29:49.572836+01:00", "site": "3", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547091
+Invalid: {"at": "2024-10-22T14:30:39.576624+01:00", "site": "6", "val": 2}, Reason: Invalid site value, Offset: 547101
+Invalid: {"at": "2024-10-22T14:31:06.580847+01:00", "site": "2", "val": "ERR"}, Reason: Invalid val value, Offset: 547110
+Invalid: {"at": "2024-10-22T14:31:07.581170+01:00", "site": "3", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 547111
+Invalid: {"at": "2024-10-22T14:31:12.581544+01:00", "site": "5", "val": 5}, Reason: Invalid val value, Offset: 547112
+Invalid: {"at": "2024-10-22T14:31:18.582291+01:00", "site": "11", "val": 1}, Reason: Invalid site value, Offset: 547114
+Invalid: {"at": "2024-10-22T14:31:23.582768+01:00", "site": "2", "val": "INF"}, Reason: Invalid val value, Offset: 547115
+Invalid: {"at": "2024-10-22T14:31:28.583195+01:00", "site": "0", "val": "INF"}, Reason: Invalid val value, Offset: 547116
+Invalid: {"at": "2024-10-22T14:31:34.583582+01:00", "site": "0", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547117
+Invalid: {"site": "1", "val": 1}, Reason: Missing at key, Offset: 547124
+Invalid: {"site": "1", "val": 1}, Reason: Invalid at value, Offset: 547124
+Invalid: {"at": "2024-10-22T14:32:38.592043+01:00", "val": 3}, Reason: Missing site key, Offset: 547134
+Invalid: {"at": "2024-10-22T14:32:38.592043+01:00", "val": 3}, Reason: Invalid site value, Offset: 547134
+Invalid: {"at": "2024-10-22T14:32:41.592785+01:00", "site": "1", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547135
+Invalid: {"at": "2024-10-22T14:32:59.596254+01:00", "site": "8", "val": 1}, Reason: Invalid site value, Offset: 547139
+Invalid: {"at": "2024-10-22T14:33:25.599915+01:00", "val": 3}, Reason: Missing site key, Offset: 547147
+Invalid: {"at": "2024-10-22T14:33:25.599915+01:00", "val": 3}, Reason: Invalid site value, Offset: 547147
+Invalid: {"at": "2024-10-22T14:33:34.601047+01:00", "site": "ERR", "val": 3}, Reason: Invalid site value, Offset: 547150
+Invalid: {"at": "2024-10-22T14:34:20.605940+01:00", "site": "2", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 547163
+Invalid: {"at": "2024-10-22T14:34:33.608292+01:00", "val": 2}, Reason: Missing site key, Offset: 547168
+Invalid: {"at": "2024-10-22T14:34:33.608292+01:00", "val": 2}, Reason: Invalid site value, Offset: 547168
+Invalid: {"at": "2024-10-22T14:35:29.613457+01:00", "site": "4", "val": 6}, Reason: Invalid val value, Offset: 547182
+Invalid: {"at": "2024-10-22T14:35:31.613835+01:00", "val": 2}, Reason: Missing site key, Offset: 547183
+Invalid: {"at": "2024-10-22T14:35:31.613835+01:00", "val": 2}, Reason: Invalid site value, Offset: 547183
+Invalid: {"at": "2024-10-22T14:36:38.620667+01:00", "site": "11", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 547202
+Invalid: {"at": "2024-10-22T14:36:43.621402+01:00", "site": "5", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 547204
+Invalid: {"at": "2024-10-22T14:37:26.626757+01:00", "val": 2}, Reason: Missing site key, Offset: 547216
+Invalid: {"at": "2024-10-22T14:37:26.626757+01:00", "val": 2}, Reason: Invalid site value, Offset: 547216
+Invalid: {"at": "2024-10-22T14:38:15.636349+01:00", "site": "10", "val": 3}, Reason: Invalid site value, Offset: 547231
+Invalid: {"at": "2024-10-22T14:38:25.637710+01:00", "site": "4", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 547234
+Invalid: {"at": "2024-10-22T14:39:01.645238+01:00", "site": "2", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547243
+Invalid: {"at": "2024-10-22T14:39:54.651149+01:00", "site": "1", "type": 0}, Reason: Missing val key, Offset: 547258
+Invalid: {"at": "2024-10-22T14:39:54.651149+01:00", "site": "1", "type": 0}, Reason: Invalid val value, Offset: 547258
+Invalid: {"at": "2024-10-22T14:40:18.653108+01:00", "site": "1", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547264
+Invalid: {"at": "2024-10-22T14:40:36.654768+01:00", "site": "5", "val": "INF"}, Reason: Invalid val value, Offset: 547269
+Invalid: {"at": "2024-10-22T14:41:20.659662+01:00", "site": "2", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 547281
+Invalid: {"at": "2024-10-22T14:41:56.664306+01:00", "site": "0", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547294
+Invalid: {"at": "2024-10-22T14:42:00.664616+01:00", "site": "0", "val": -2}, Reason: Invalid val value, Offset: 547295
+Invalid: {"at": "2024-10-22T14:42:07.665512+01:00", "site": "3", "val": 7}, Reason: Invalid val value, Offset: 547297
+Invalid: {"at": "2024-10-22T14:42:19.666898+01:00", "val": 2}, Reason: Missing site key, Offset: 547300
+Invalid: {"at": "2024-10-22T14:42:19.666898+01:00", "val": 2}, Reason: Invalid site value, Offset: 547300
+Invalid: {"at": "2024-10-22T14:42:58.672819+01:00", "site": "ERR", "val": 2}, Reason: Invalid site value, Offset: 547312
+Invalid: {"at": "2024-10-22T14:43:22.675527+01:00", "site": "4"}, Reason: Missing val key, Offset: 547317
+Invalid: {"at": "2024-10-22T14:43:22.675527+01:00", "site": "4"}, Reason: Invalid val value, Offset: 547317
+Invalid: {"at": "2024-10-22T14:43:30.676356+01:00", "site": "0", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547319
+Invalid: {"at": "2024-10-22T14:43:35.676668+01:00", "site": "1", "val": 6}, Reason: Invalid val value, Offset: 547320
+Invalid: {"at": "2024-10-22T14:44:38.684242+01:00", "site": "7", "val": 3}, Reason: Invalid site value, Offset: 547338
+Invalid: {"at": "2024-10-22T14:44:43.684587+01:00", "site": "4", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 547339
+Invalid: {"at": "2024-10-22T14:44:48.684902+01:00", "site": "INF", "val": 2}, Reason: Invalid site value, Offset: 547340
+Invalid: {"site": "4", "val": 2}, Reason: Missing at key, Offset: 547346
+Invalid: {"site": "4", "val": 2}, Reason: Invalid at value, Offset: 547346
+Invalid: {"at": "2024-10-22T14:45:44.691368+01:00", "site": "6", "val": 1}, Reason: Invalid site value, Offset: 547355
+Invalid: {"at": "2024-10-22T14:45:59.692663+01:00", "site": "3", "val": -3, "type": 0}, Reason: Invalid val value, Offset: 547358
+Invalid: {"at": "2024-10-22T14:46:12.694009+01:00", "site": "5", "val": 8}, Reason: Invalid val value, Offset: 547361
+Invalid: {"at": "2024-10-22T14:46:15.694607+01:00", "site": "3", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547363
+Invalid: {"at": "2024-10-22T14:46:17.694938+01:00", "val": -1, "type": 0}, Reason: Missing site key, Offset: 547364
+Invalid: {"at": "2024-10-22T14:46:17.694938+01:00", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 547364
+Invalid: {"at": "2024-10-22T14:46:27.695584+01:00", "site": "5", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 547366
+Invalid: {"at": "2024-10-22T14:47:00.698677+01:00", "site": "None", "val": 3}, Reason: Invalid site value, Offset: 547375
+Invalid: {"at": "2024-10-22T14:47:01.699345+01:00", "site": "2", "val": 8}, Reason: Invalid val value, Offset: 547376
+Invalid: {"at": "2024-10-22T14:47:20.701200+01:00", "site": "1", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 547381
+Invalid: {"at": "2024-10-22T14:47:55.706159+01:00", "site": "5", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547391
+Invalid: {"at": "2024-10-22T14:48:14.711244+01:00", "site": "2", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547397
+Invalid: {"at": "2024-10-22T14:48:15.712450+01:00", "site": "4"}, Reason: Missing val key, Offset: 547398
+Invalid: {"at": "2024-10-22T14:48:15.712450+01:00", "site": "4"}, Reason: Invalid val value, Offset: 547398
+Invalid: {"at": "2024-10-22T14:48:57.718359+01:00", "val": 3}, Reason: Missing site key, Offset: 547414
+Invalid: {"at": "2024-10-22T14:48:57.718359+01:00", "val": 3}, Reason: Invalid site value, Offset: 547414
+Invalid: {"at": "2024-10-22T14:49:21.720985+01:00", "site": "8", "val": 3}, Reason: Invalid site value, Offset: 547421
+Invalid: {"at": "2024-10-22T14:50:38.731069+01:00", "site": "1", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 547446
+Invalid: {"at": "2024-10-22T14:50:46.731792+01:00", "site": "1", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 547448
+Invalid: {"at": "2024-10-22T14:50:48.732111+01:00", "site": "3", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547449
+Invalid: {"at": "2024-10-22T14:51:36.737405+01:00", "site": "1", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547461
+Invalid: {"at": "2024-10-22T14:51:52.738459+01:00", "site": "6", "val": 3}, Reason: Invalid site value, Offset: 547464
+Invalid: {"at": "2024-10-22T14:51:54.738813+01:00", "val": 0}, Reason: Missing site key, Offset: 547465
+Invalid: {"at": "2024-10-22T14:51:54.738813+01:00", "val": 0}, Reason: Invalid site value, Offset: 547465
+Invalid: {"at": "2024-10-22T14:52:10.739811+01:00", "val": 1}, Reason: Missing site key, Offset: 547468
+Invalid: {"at": "2024-10-22T14:52:10.739811+01:00", "val": 1}, Reason: Invalid site value, Offset: 547468
+Invalid: {"at": "2024-10-22T14:52:34.742907+01:00", "site": "10", "val": 2}, Reason: Invalid site value, Offset: 547477
+Invalid: {"site": "4", "val": 2}, Reason: Missing at key, Offset: 547482
+Invalid: {"site": "4", "val": 2}, Reason: Invalid at value, Offset: 547482
+Invalid: {"at": "2024-10-22T14:52:57.745868+01:00", "site": "8", "val": 3}, Reason: Invalid site value, Offset: 547485
+Invalid: {"at": "2024-10-22T14:53:16.747373+01:00", "site": "8", "val": 2}, Reason: Invalid site value, Offset: 547489
+Invalid: {"at": "2024-10-22T14:54:26.756428+01:00", "val": 2}, Reason: Missing site key, Offset: 547508
+Invalid: {"at": "2024-10-22T14:54:26.756428+01:00", "val": 2}, Reason: Invalid site value, Offset: 547508
+Invalid: {"at": "2024-10-22T14:55:37.766558+01:00", "site": "3", "val": 9}, Reason: Invalid val value, Offset: 547529
+Invalid: {"at": "2024-10-22T14:55:55.768943+01:00", "site": "2", "val": "INF"}, Reason: Invalid val value, Offset: 547534
+Invalid: {"at": "2024-10-22T14:56:18.772010+01:00", "site": "4", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 547539
+Invalid: {"at": "2024-10-22T14:57:08.777542+01:00", "site": "4", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 547554
+Invalid: {"at": "2024-10-22T14:57:21.780608+01:00", "site": "None", "val": 0}, Reason: Invalid site value, Offset: 547558
+Invalid: {"at": "2024-10-22T14:57:26.780935+01:00", "site": "7", "val": 1}, Reason: Invalid site value, Offset: 547559
+Invalid: {"at": "2024-10-22T14:57:37.782005+01:00", "site": "5", "val": "ERR"}, Reason: Invalid val value, Offset: 547562
+Invalid: {"at": "2024-10-22T14:58:12.786570+01:00", "site": "4", "val": 9}, Reason: Invalid val value, Offset: 547572
+Invalid: {"at": "2024-10-22T14:58:33.789145+01:00", "val": 4}, Reason: Missing site key, Offset: 547579
+Invalid: {"at": "2024-10-22T14:58:33.789145+01:00", "val": 4}, Reason: Invalid site value, Offset: 547579
+Invalid: {"at": "2024-10-22T14:58:36.789975+01:00", "site": "3", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547581
+Invalid: {"at": "2024-10-22T14:58:52.791650+01:00", "val": 1}, Reason: Missing site key, Offset: 547585
+Invalid: {"at": "2024-10-22T14:58:52.791650+01:00", "val": 1}, Reason: Invalid site value, Offset: 547585
+Invalid: {"at": "2024-10-22T14:59:01.793068+01:00", "site": "2", "val": 5}, Reason: Invalid val value, Offset: 547589
+Invalid: {"at": "2024-10-22T14:59:50.798739+01:00", "site": "11", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 547602
+Invalid: {"at": "2024-10-22T15:00:02.801717+01:00", "site": "12", "val": 4}, Reason: Invalid site value, Offset: 547604
+Invalid: {"at": "2024-10-22T15:01:31.815858+01:00", "val": 0}, Reason: Missing site key, Offset: 547632
+Invalid: {"at": "2024-10-22T15:01:31.815858+01:00", "val": 0}, Reason: Invalid site value, Offset: 547632
+Invalid: {"at": "2024-10-22T15:01:51.818713+01:00", "site": "2", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 547637
+Invalid: {"at": "2024-10-22T15:02:38.826528+01:00", "site": "5"}, Reason: Missing val key, Offset: 547653
+Invalid: {"at": "2024-10-22T15:02:38.826528+01:00", "site": "5"}, Reason: Invalid val value, Offset: 547653
+Invalid: {"at": "2024-10-22T15:02:40.826833+01:00", "site": "None", "val": 4}, Reason: Invalid site value, Offset: 547654
+Invalid: {"at": "2024-10-22T15:02:50.827825+01:00", "site": "1", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 547656
+Invalid: {"at": "2024-10-22T15:02:54.828153+01:00", "site": "4", "val": -1}, Reason: Invalid type value, Offset: 547657
+Invalid: {"at": "2024-10-22T15:03:18.831952+01:00", "site": "5", "val": null}, Reason: Missing val key, Offset: 547665
+Invalid: {"at": "2024-10-22T15:03:18.831952+01:00", "site": "5", "val": null}, Reason: Invalid val value, Offset: 547665
+Invalid: {"at": "2024-10-22T15:03:32.836270+01:00", "site": "ERR", "val": 2}, Reason: Invalid site value, Offset: 547670
+Invalid: {"at": "2024-10-22T15:03:37.837029+01:00", "site": "INF", "val": 2}, Reason: Invalid site value, Offset: 547672
+Invalid: {"at": "2024-10-22T15:03:45.837952+01:00", "site": "2", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547674
+Invalid: {"at": "2024-10-22T15:03:48.838264+01:00", "site": "1", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 547675
+Invalid: {"at": "2024-10-22T15:04:22.841787+01:00", "site": "4", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547685
+Invalid: {"at": "2024-10-22T15:04:26.843252+01:00", "site": "2", "val": 6}, Reason: Invalid val value, Offset: 547686
+Invalid: {"at": "2024-10-22T15:04:38.845334+01:00", "site": "7", "val": 2}, Reason: Invalid site value, Offset: 547691
+Invalid: {"at": "2024-10-22T15:04:44.846074+01:00", "site": "2", "val": 9}, Reason: Invalid val value, Offset: 547693
+Invalid: {"at": "2024-10-22T15:06:05.855728+01:00", "site": "2", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 547716
+Invalid: {"at": "2024-10-22T15:06:15.856908+01:00", "site": "0", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547719
+Invalid: {"site": "0", "val": 2}, Reason: Missing at key, Offset: 547724
+Invalid: {"site": "0", "val": 2}, Reason: Invalid at value, Offset: 547724
+Invalid: {"at": "2024-10-22T15:07:05.861798+01:00", "site": "2", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547732
+Invalid: {"at": "2024-10-22T15:07:10.863156+01:00", "site": "10", "val": 3}, Reason: Invalid site value, Offset: 547734
+Invalid: {"at": "2024-10-22T15:07:52.868114+01:00", "site": "9", "val": 4}, Reason: Invalid site value, Offset: 547747
+Invalid: {"at": "2024-10-22T15:07:56.868788+01:00", "site": "11", "val": 3}, Reason: Invalid site value, Offset: 547748
+Invalid: {"at": "2024-10-22T15:08:01.869148+01:00", "site": "10", "val": 4}, Reason: Invalid site value, Offset: 547749
+Invalid: {"at": "2024-10-22T15:08:05.872592+01:00", "site": "4", "val": 9}, Reason: Invalid val value, Offset: 547750
+Invalid: {"at": "2024-10-22T15:08:16.873329+01:00", "site": "2", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547752
+Invalid: {"site": "0", "val": 1}, Reason: Missing at key, Offset: 547757
+Invalid: {"site": "0", "val": 1}, Reason: Invalid at value, Offset: 547757
+Invalid: {"at": "2024-10-22T15:08:30.876017+01:00", "site": "2", "val": -2}, Reason: Invalid val value, Offset: 547758
+Invalid: {"at": "2024-10-22T15:08:58.879302+01:00", "site": "6", "val": 1}, Reason: Invalid site value, Offset: 547768
+Invalid: {"at": "2024-10-22T15:09:10.880212+01:00", "site": "1", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 547770
+Invalid: {"at": "2024-10-22T15:09:16.881325+01:00", "site": "1", "val": "ERR"}, Reason: Invalid val value, Offset: 547771
+Invalid: {"at": "2024-10-22T15:09:21.882374+01:00", "val": 1}, Reason: Missing site key, Offset: 547773
+Invalid: {"at": "2024-10-22T15:09:21.882374+01:00", "val": 1}, Reason: Invalid site value, Offset: 547773
+Invalid: {"at": "2024-10-22T15:09:30.883575+01:00", "site": "3", "val": 7}, Reason: Invalid val value, Offset: 547776
+Invalid: {"at": "2024-10-22T15:10:09.888731+01:00", "site": "12", "val": 0}, Reason: Invalid site value, Offset: 547789
+Invalid: {"at": "2024-10-22T15:10:29.891940+01:00", "site": "10", "val": 4}, Reason: Invalid site value, Offset: 547795
+Invalid: {"site": "3", "val": 3}, Reason: Missing at key, Offset: 547799
+Invalid: {"site": "3", "val": 3}, Reason: Invalid at value, Offset: 547799
+Invalid: {"at": "2024-10-22T15:11:00.895434+01:00", "val": 4}, Reason: Missing site key, Offset: 547802
+Invalid: {"at": "2024-10-22T15:11:00.895434+01:00", "val": 4}, Reason: Invalid site value, Offset: 547802
+Invalid: {"at": "2024-10-22T15:11:05.896545+01:00", "val": 1}, Reason: Missing site key, Offset: 547805
+Invalid: {"at": "2024-10-22T15:11:05.896545+01:00", "val": 1}, Reason: Invalid site value, Offset: 547805
+Invalid: {"at": "2024-10-22T15:11:12.897209+01:00", "site": "1", "val": 9}, Reason: Invalid val value, Offset: 547807
+Invalid: {"at": "2024-10-22T15:11:14.897510+01:00", "site": "0", "val": 5}, Reason: Invalid val value, Offset: 547808
+Invalid: {"at": "2024-10-22T15:11:17.897910+01:00", "site": "1", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547809
+Invalid: {"at": "2024-10-22T15:12:37.907791+01:00", "site": "4", "val": "ERR"}, Reason: Invalid val value, Offset: 547830
+Invalid: {"at": "2024-10-22T15:12:55.909541+01:00", "site": "3", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 547835
+Invalid: {"at": "2024-10-22T15:12:56.910081+01:00", "site": "11", "val": 0}, Reason: Invalid site value, Offset: 547836
+Invalid: {"site": "5", "val": 3}, Reason: Missing at key, Offset: 547840
+Invalid: {"site": "5", "val": 3}, Reason: Invalid at value, Offset: 547840
+Invalid: {"at": "2024-10-22T15:13:24.912586+01:00", "val": 1}, Reason: Missing site key, Offset: 547843
+Invalid: {"at": "2024-10-22T15:13:24.912586+01:00", "val": 1}, Reason: Invalid site value, Offset: 547843
+Invalid: {"at": "2024-10-22T15:13:40.914668+01:00", "site": "3", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 547847
+Invalid: {"at": "2024-10-22T15:13:42.915040+01:00", "site": "2", "val": 5}, Reason: Invalid val value, Offset: 547848
+Invalid: {"at": "2024-10-22T15:14:00.916715+01:00", "site": "ERR", "val": 1}, Reason: Invalid site value, Offset: 547852
+Invalid: {"at": "2024-10-22T15:14:02.917128+01:00", "site": "5", "val": 6}, Reason: Invalid val value, Offset: 547853
+Invalid: {"at": "2024-10-22T15:14:09.918134+01:00", "val": 2}, Reason: Missing site key, Offset: 547855
+Invalid: {"at": "2024-10-22T15:14:09.918134+01:00", "val": 2}, Reason: Invalid site value, Offset: 547855
+Invalid: {"site": "3", "val": 3}, Reason: Missing at key, Offset: 547856
+Invalid: {"site": "3", "val": 3}, Reason: Invalid at value, Offset: 547856
+Invalid: {"at": "2024-10-22T15:14:26.919858+01:00", "site": "1", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 547860
+Invalid: {"at": "2024-10-22T15:14:53.924929+01:00", "site": "3", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 547871
+Invalid: {"at": "2024-10-22T15:15:01.925940+01:00", "site": "ERR", "val": 3}, Reason: Invalid site value, Offset: 547874
+Invalid: {"at": "2024-10-22T15:15:32.930144+01:00", "site": "5", "val": -3}, Reason: Invalid val value, Offset: 547882
+Invalid: {"at": "2024-10-22T15:16:02.933992+01:00", "site": "6", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 547889
+Invalid: {"at": "2024-10-22T15:16:09.934747+01:00", "val": 0}, Reason: Missing site key, Offset: 547891
+Invalid: {"at": "2024-10-22T15:16:09.934747+01:00", "val": 0}, Reason: Invalid site value, Offset: 547891
+Invalid: {"at": "2024-10-22T15:16:13.935328+01:00", "site": "4", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 547892
+Invalid: {"at": "2024-10-22T15:16:15.935972+01:00", "site": "4", "val": -1, "type": null}, Reason: Invalid type value, Offset: 547894
+Invalid: {"site": "4", "val": 2}, Reason: Missing at key, Offset: 547895
+Invalid: {"site": "4", "val": 2}, Reason: Invalid at value, Offset: 547895
+Invalid: {"site": "4", "val": 3}, Reason: Missing at key, Offset: 547896
+Invalid: {"site": "4", "val": 3}, Reason: Invalid at value, Offset: 547896
+Invalid: {"at": "2024-10-22T15:16:52.942781+01:00", "site": "6", "val": 1}, Reason: Invalid site value, Offset: 547908
+Invalid: {"at": "2024-10-22T15:17:18.947009+01:00", "site": "5", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 547918
+Invalid: {"at": "2024-10-22T15:17:40.949345+01:00", "site": "10", "val": 1}, Reason: Invalid site value, Offset: 547923
+Invalid: {"at": "2024-10-22T15:17:41.950150+01:00", "site": "0", "val": 5}, Reason: Invalid val value, Offset: 547924
+Invalid: {"at": "2024-10-22T15:18:10.955794+01:00", "site": "3", "val": 7}, Reason: Invalid val value, Offset: 547933
+Invalid: {"at": "2024-10-22T15:18:55.961795+01:00", "site": "8", "val": 1}, Reason: Invalid site value, Offset: 547945
+Invalid: {"at": "2024-10-22T15:18:58.962193+01:00", "site": "2", "val": -3}, Reason: Invalid val value, Offset: 547946
+Invalid: {"at": "2024-10-22T15:19:03.965060+01:00", "site": "3", "val": 9}, Reason: Invalid val value, Offset: 547949
+Invalid: {"at": "2024-10-22T15:20:04.973115+01:00", "site": "5", "val": null}, Reason: Missing val key, Offset: 547969
+Invalid: {"at": "2024-10-22T15:20:04.973115+01:00", "site": "5", "val": null}, Reason: Invalid val value, Offset: 547969
+Invalid: {"at": "2024-10-22T15:20:35.975950+01:00", "site": "12", "val": 1}, Reason: Invalid site value, Offset: 547977
+Invalid: {"at": "2024-10-22T15:20:47.977745+01:00", "site": "5", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 547981
+Invalid: {"at": "2024-10-22T15:21:02.980369+01:00", "site": "3", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 547985
+Invalid: {"at": "2024-10-22T15:21:15.982206+01:00", "site": "INF", "val": -1, "type": 0}, Reason: Invalid site value, Offset: 547990
+Invalid: {"at": "2024-10-22T15:21:19.982582+01:00", "site": "10", "val": 1}, Reason: Invalid site value, Offset: 547991
+Invalid: {"at": "2024-10-22T15:21:36.986456+01:00", "site": "5", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 547997
+Invalid: {"at": "2024-10-22T15:21:46.988027+01:00", "site": "4", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 548000
+Invalid: {"at": "2024-10-22T15:21:57.989709+01:00", "site": "None", "val": 2}, Reason: Invalid site value, Offset: 548003
+Invalid: {"at": "2024-10-22T15:22:03.990081+01:00", "site": "4", "val": -2}, Reason: Invalid val value, Offset: 548004
+Invalid: {"at": "2024-10-22T15:22:14.992058+01:00", "site": "3", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 548010
+Invalid: {"at": "2024-10-22T15:24:13.008711+01:00", "site": "5", "val": "INF"}, Reason: Invalid val value, Offset: 548038
+Invalid: {"at": "2024-10-22T15:24:54.012950+01:00", "site": "9", "val": 2}, Reason: Invalid site value, Offset: 548048
+Invalid: {"site": "5", "val": 0}, Reason: Missing at key, Offset: 548055
+Invalid: {"site": "5", "val": 0}, Reason: Invalid at value, Offset: 548055
+Invalid: {"at": "2024-10-22T15:25:24.016592+01:00", "site": "11", "val": 0}, Reason: Invalid site value, Offset: 548057
+Invalid: {"at": "2024-10-22T15:26:08.022259+01:00", "site": "0", "val": -3}, Reason: Invalid val value, Offset: 548071
+Invalid: {"at": "2024-10-22T15:26:47.027215+01:00", "site": "5", "val": "ERR"}, Reason: Invalid val value, Offset: 548082
+Invalid: {"at": "2024-10-22T15:27:02.029000+01:00", "site": "5", "val": 5}, Reason: Invalid val value, Offset: 548085
+Invalid: {"at": "2024-10-22T15:27:29.032089+01:00", "site": "4", "val": "ERR"}, Reason: Invalid val value, Offset: 548091
+Invalid: {"at": "2024-10-22T15:27:41.033693+01:00", "site": "2", "val": "INF"}, Reason: Invalid val value, Offset: 548095
+Invalid: {"at": "2024-10-22T15:28:18.037986+01:00", "site": "5", "val": 7}, Reason: Invalid val value, Offset: 548107
+Invalid: {"at": "2024-10-22T15:28:53.041294+01:00", "site": "2", "val": -2}, Reason: Invalid val value, Offset: 548115
+Invalid: {"at": "2024-10-22T15:28:58.041727+01:00", "site": "4", "val": "ERR"}, Reason: Invalid val value, Offset: 548116
+Invalid: {"at": "2024-10-22T15:29:00.042049+01:00", "site": "11", "val": 2}, Reason: Invalid site value, Offset: 548117
+Invalid: {"at": "2024-10-22T15:29:15.043252+01:00", "site": "5", "val": -2}, Reason: Invalid val value, Offset: 548120
+Invalid: {"at": "2024-10-22T15:29:28.045446+01:00", "site": "5", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 548125
+Invalid: {"at": "2024-10-22T15:29:53.047732+01:00", "val": 1}, Reason: Missing site key, Offset: 548131
+Invalid: {"at": "2024-10-22T15:29:53.047732+01:00", "val": 1}, Reason: Invalid site value, Offset: 548131
+Invalid: {"at": "2024-10-22T15:30:27.051268+01:00", "site": "5"}, Reason: Missing val key, Offset: 548139
+Invalid: {"at": "2024-10-22T15:30:27.051268+01:00", "site": "5"}, Reason: Invalid val value, Offset: 548139
+Invalid: {"site": "1", "val": 3}, Reason: Missing at key, Offset: 548144
+Invalid: {"site": "1", "val": 3}, Reason: Invalid at value, Offset: 548144
+Invalid: {"site": "1", "val": 4}, Reason: Missing at key, Offset: 548148
+Invalid: {"site": "1", "val": 4}, Reason: Invalid at value, Offset: 548148
+Invalid: {"at": "2024-10-22T15:31:16.058055+01:00", "site": "3", "val": -2}, Reason: Invalid val value, Offset: 548153
+Invalid: {"at": "2024-10-22T15:31:52.061428+01:00", "site": "10", "val": 3}, Reason: Invalid site value, Offset: 548161
+Invalid: {"at": "2024-10-22T15:32:04.062818+01:00", "site": "3", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 548164
+Invalid: {"at": "2024-10-22T15:32:13.064430+01:00", "site": "11", "val": 4}, Reason: Invalid site value, Offset: 548168
+Invalid: {"at": "2024-10-22T15:32:21.065195+01:00", "site": "1"}, Reason: Missing val key, Offset: 548170
+Invalid: {"at": "2024-10-22T15:32:21.065195+01:00", "site": "1"}, Reason: Invalid val value, Offset: 548170
+Invalid: {"site": "3", "val": 4}, Reason: Missing at key, Offset: 548180
+Invalid: {"site": "3", "val": 4}, Reason: Invalid at value, Offset: 548180
+Invalid: {"at": "2024-10-22T15:33:09.070939+01:00", "site": "None", "val": 2}, Reason: Invalid site value, Offset: 548183
+Invalid: {"at": "2024-10-22T15:33:18.072191+01:00", "site": "5", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 548185
+Invalid: {"at": "2024-10-22T15:34:10.076802+01:00", "site": "9", "val": 0}, Reason: Invalid site value, Offset: 548197
+Invalid: {"at": "2024-10-22T15:34:23.078129+01:00", "site": "2", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 548200
+Invalid: {"at": "2024-10-22T15:34:30.079286+01:00", "site": "5", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 548203
+Invalid: {"at": "2024-10-22T15:34:40.080240+01:00", "site": "8", "val": 2}, Reason: Invalid site value, Offset: 548206
+Invalid: {"at": "2024-10-22T15:34:44.080638+01:00", "site": "2", "val": 7}, Reason: Invalid val value, Offset: 548207
+Invalid: {"site": "5", "val": 2}, Reason: Missing at key, Offset: 548218
+Invalid: {"site": "5", "val": 2}, Reason: Invalid at value, Offset: 548218
+Invalid: {"at": "2024-10-22T15:35:43.089699+01:00", "val": 1}, Reason: Missing site key, Offset: 548226
+Invalid: {"at": "2024-10-22T15:35:43.089699+01:00", "val": 1}, Reason: Invalid site value, Offset: 548226
+Invalid: {"at": "2024-10-22T15:35:56.091082+01:00", "site": "12", "val": 3}, Reason: Invalid site value, Offset: 548230
+Invalid: {"at": "2024-10-22T15:36:31.093907+01:00", "site": "0"}, Reason: Missing val key, Offset: 548238
+Invalid: {"at": "2024-10-22T15:36:31.093907+01:00", "site": "0"}, Reason: Invalid val value, Offset: 548238
+Invalid: {"at": "2024-10-22T15:36:54.096982+01:00", "site": "4", "val": 9}, Reason: Invalid val value, Offset: 548247
+Invalid: {"at": "2024-10-22T15:37:17.102972+01:00", "val": 4}, Reason: Missing site key, Offset: 548258
+Invalid: {"at": "2024-10-22T15:37:17.102972+01:00", "val": 4}, Reason: Invalid site value, Offset: 548258
+Invalid: {"at": "2024-10-22T15:39:15.115003+01:00", "site": "4", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 548288
+Invalid: {"at": "2024-10-22T15:39:31.117006+01:00", "site": "4", "val": -1, "type": "ERR"}, Reason: Invalid type value, Offset: 548293
+Invalid: {"at": "2024-10-22T15:39:57.120057+01:00", "site": "None", "val": 0}, Reason: Invalid site value, Offset: 548301
+Invalid: {"at": "2024-10-22T15:40:13.121269+01:00", "site": "5", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 548304
+Invalid: {"at": "2024-10-22T15:40:19.122447+01:00", "site": "5", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 548306
+Invalid: {"at": "2024-10-22T15:40:30.123566+01:00", "site": "2", "val": "ERR"}, Reason: Invalid val value, Offset: 548309
+Invalid: {"at": "2024-10-22T15:41:46.129933+01:00", "site": "4", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 548325
+Invalid: {"at": "2024-10-22T15:42:02.131154+01:00", "site": "8", "val": 2}, Reason: Invalid site value, Offset: 548328
+Invalid: {"at": "2024-10-22T15:42:09.132781+01:00", "site": "11", "val": 2}, Reason: Invalid site value, Offset: 548330
+Invalid: {"at": "2024-10-22T15:42:15.133250+01:00", "site": "12", "val": 0}, Reason: Invalid site value, Offset: 548331
+Invalid: {"at": "2024-10-22T15:42:23.134025+01:00", "site": "ERR", "val": 3}, Reason: Invalid site value, Offset: 548333
+Invalid: {"at": "2024-10-22T15:42:27.134714+01:00", "site": "2", "val": -2}, Reason: Invalid val value, Offset: 548335
+Invalid: {"at": "2024-10-22T15:42:52.137343+01:00", "site": "4", "val": 6}, Reason: Invalid val value, Offset: 548342
+Invalid: {"at": "2024-10-22T15:43:11.140079+01:00", "site": "10", "val": 2}, Reason: Invalid site value, Offset: 548348
+Invalid: {"at": "2024-10-22T15:43:25.142252+01:00", "site": "3"}, Reason: Missing val key, Offset: 548352
+Invalid: {"at": "2024-10-22T15:43:25.142252+01:00", "site": "3"}, Reason: Invalid val value, Offset: 548352
+Invalid: {"at": "2024-10-22T15:43:35.143394+01:00", "site": "9", "val": 2}, Reason: Invalid site value, Offset: 548355
+Invalid: {"at": "2024-10-22T15:44:02.146307+01:00", "val": 3}, Reason: Missing site key, Offset: 548363
+Invalid: {"at": "2024-10-22T15:44:02.146307+01:00", "val": 3}, Reason: Invalid site value, Offset: 548363
+Invalid: {"at": "2024-10-22T15:44:16.147373+01:00", "site": "2", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 548366
+Invalid: {"at": "2024-10-22T15:44:17.147727+01:00", "site": "4", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 548367
+Invalid: {"at": "2024-10-22T15:44:27.148415+01:00", "site": "INF", "val": 1}, Reason: Invalid site value, Offset: 548369
+Invalid: {"at": "2024-10-22T15:44:28.148748+01:00", "site": "12", "val": 0}, Reason: Invalid site value, Offset: 548370
+Invalid: {"at": "2024-10-22T15:44:44.150229+01:00", "site": "9", "val": 3}, Reason: Invalid site value, Offset: 548374
+Invalid: {"at": "2024-10-22T15:45:22.155759+01:00", "site": "4", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 548386
+Invalid: {"at": "2024-10-22T15:45:50.161968+01:00", "site": "1", "val": -1, "type": null}, Reason: Invalid type value, Offset: 548395
+Invalid: {"at": "2024-10-22T15:45:57.162755+01:00", "site": "0", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 548397
+Invalid: {"at": "2024-10-22T15:46:03.163240+01:00", "site": "5"}, Reason: Missing val key, Offset: 548398
+Invalid: {"at": "2024-10-22T15:46:03.163240+01:00", "site": "5"}, Reason: Invalid val value, Offset: 548398
+Invalid: {"site": "4", "val": 1}, Reason: Missing at key, Offset: 548405
+Invalid: {"site": "4", "val": 1}, Reason: Invalid at value, Offset: 548405
+Invalid: {"at": "2024-10-22T15:46:42.168194+01:00", "val": 2}, Reason: Missing site key, Offset: 548410
+Invalid: {"at": "2024-10-22T15:46:42.168194+01:00", "val": 2}, Reason: Invalid site value, Offset: 548410
+Invalid: {"at": "2024-10-22T15:46:53.169491+01:00", "site": "2", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 548413
+Invalid: {"at": "2024-10-22T15:46:56.169851+01:00", "site": "8", "val": 4}, Reason: Invalid site value, Offset: 548414
+Invalid: {"at": "2024-10-22T15:47:52.175908+01:00", "site": "4", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 548432
+Invalid: {"at": "2024-10-22T15:48:06.177408+01:00", "site": "11", "val": 2}, Reason: Invalid site value, Offset: 548436
+Invalid: {"at": "2024-10-22T15:48:11.178045+01:00", "site": "4", "val": null}, Reason: Missing val key, Offset: 548438
+Invalid: {"at": "2024-10-22T15:48:11.178045+01:00", "site": "4", "val": null}, Reason: Invalid val value, Offset: 548438
+Invalid: {"at": "2024-10-22T15:48:21.179049+01:00", "site": "3"}, Reason: Missing val key, Offset: 548441
+Invalid: {"at": "2024-10-22T15:48:21.179049+01:00", "site": "3"}, Reason: Invalid val value, Offset: 548441
+Invalid: {"at": "2024-10-22T15:48:33.180535+01:00", "val": 1}, Reason: Missing site key, Offset: 548444
+Invalid: {"at": "2024-10-22T15:48:33.180535+01:00", "val": 1}, Reason: Invalid site value, Offset: 548444
+Invalid: {"at": "2024-10-22T15:48:39.181164+01:00", "site": "5", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 548446
+Invalid: {"at": "2024-10-22T15:48:55.182758+01:00", "val": 3}, Reason: Missing site key, Offset: 548451
+Invalid: {"at": "2024-10-22T15:48:55.182758+01:00", "val": 3}, Reason: Invalid site value, Offset: 548451
+Invalid: {"at": "2024-10-22T15:49:06.183725+01:00", "site": "0", "val": -1, "type": null}, Reason: Invalid type value, Offset: 548454
+Invalid: {"at": "2024-10-22T15:49:59.189126+01:00", "site": "ERR", "val": 3}, Reason: Invalid site value, Offset: 548468
+Invalid: {"at": "2024-10-22T15:50:04.189612+01:00", "site": "1"}, Reason: Missing val key, Offset: 548469
+Invalid: {"at": "2024-10-22T15:50:04.189612+01:00", "site": "1"}, Reason: Invalid val value, Offset: 548469
+Invalid: {"at": "2024-10-22T15:50:11.190409+01:00", "site": "2", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 548471
+Invalid: {"at": "2024-10-22T15:50:17.191043+01:00", "site": "1", "val": 9}, Reason: Invalid val value, Offset: 548473
+Invalid: {"at": "2024-10-22T15:50:31.192958+01:00", "site": "2", "val": -1, "type": 3}, Reason: Invalid type value, Offset: 548478
+Invalid: {"at": "2024-10-22T15:50:38.193618+01:00", "site": "4", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 548480
+Invalid: {"site": "3", "val": 3}, Reason: Missing at key, Offset: 548482
+Invalid: {"site": "3", "val": 3}, Reason: Invalid at value, Offset: 548482
+Invalid: {"site": "0", "val": 3}, Reason: Missing at key, Offset: 548486
+Invalid: {"site": "0", "val": 3}, Reason: Invalid at value, Offset: 548486
+Invalid: {"at": "2024-10-22T15:51:33.201728+01:00", "site": "1", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 548497
+Invalid: {"at": "2024-10-22T15:52:21.206217+01:00", "val": 2}, Reason: Missing site key, Offset: 548508
+Invalid: {"at": "2024-10-22T15:52:21.206217+01:00", "val": 2}, Reason: Invalid site value, Offset: 548508
+Invalid: {"at": "2024-10-22T15:52:27.206549+01:00", "site": "0", "val": 6}, Reason: Invalid val value, Offset: 548509
+Invalid: {"at": "2024-10-22T15:52:36.207176+01:00", "site": "4", "val": 6}, Reason: Invalid val value, Offset: 548511
+Invalid: {"at": "2024-10-22T15:52:38.207557+01:00", "site": "8", "val": 1}, Reason: Invalid site value, Offset: 548512
+Invalid: {"at": "2024-10-22T15:52:49.209002+01:00", "site": "7", "val": 1}, Reason: Invalid site value, Offset: 548516
+Invalid: {"at": "2024-10-22T15:52:57.210111+01:00", "val": 0}, Reason: Missing site key, Offset: 548519
+Invalid: {"at": "2024-10-22T15:52:57.210111+01:00", "val": 0}, Reason: Invalid site value, Offset: 548519
+Invalid: {"at": "2024-10-22T15:53:07.211652+01:00", "site": "10", "val": 2}, Reason: Invalid site value, Offset: 548522
+Invalid: {"at": "2024-10-22T15:53:22.213378+01:00", "site": "5", "val": -1, "type": "INF"}, Reason: Invalid type value, Offset: 548527
+Invalid: {"at": "2024-10-22T15:53:54.217141+01:00", "site": "1", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 548538
+Invalid: {"at": "2024-10-22T15:54:32.223243+01:00", "site": "7", "val": 2}, Reason: Invalid site value, Offset: 548552
+Invalid: {"at": "2024-10-22T15:55:07.227714+01:00", "site": "2", "val": 7}, Reason: Invalid val value, Offset: 548562
+Invalid: {"at": "2024-10-22T15:55:33.231407+01:00", "site": "5", "val": 7}, Reason: Invalid val value, Offset: 548571
+Invalid: {"at": "2024-10-22T15:56:30.245337+01:00", "site": "0", "val": 5}, Reason: Invalid val value, Offset: 548592
+Invalid: {"at": "2024-10-22T15:57:07.249062+01:00", "site": "4", "val": 6}, Reason: Invalid val value, Offset: 548600
+Invalid: {"at": "2024-10-22T15:58:09.255945+01:00", "site": "7", "val": 1}, Reason: Invalid site value, Offset: 548616
+Invalid: {"at": "2024-10-22T15:58:20.257496+01:00", "site": "None", "val": 3}, Reason: Invalid site value, Offset: 548620
+Invalid: {"at": "2024-10-22T15:58:24.258264+01:00", "site": "12", "val": 1}, Reason: Invalid site value, Offset: 548622
+Invalid: {"at": "2024-10-22T15:58:51.261669+01:00", "site": "4", "val": -1, "type": 4}, Reason: Invalid type value, Offset: 548631
+Invalid: {"at": "2024-10-22T15:58:55.262415+01:00", "site": "None", "val": 2}, Reason: Invalid site value, Offset: 548633
+Invalid: {"at": "2024-10-22T15:59:29.266609+01:00", "val": 3}, Reason: Missing site key, Offset: 548643
+Invalid: {"at": "2024-10-22T15:59:29.266609+01:00", "val": 3}, Reason: Invalid site value, Offset: 548643
+Invalid: {"at": "2024-10-22T15:59:38.267945+01:00", "site": "5", "val": -1, "type": null}, Reason: Invalid type value, Offset: 548646
+Invalid: {"at": "2024-10-22T15:59:56.269485+01:00", "site": "5", "val": null}, Reason: Missing val key, Offset: 548650
+Invalid: {"at": "2024-10-22T15:59:56.269485+01:00", "site": "5", "val": null}, Reason: Invalid val value, Offset: 548650
+Invalid: {"at": "2024-10-22T16:00:00.269901+01:00", "site": "7", "val": 1}, Reason: Invalid site value, Offset: 548651
+Invalid: {"at": "2024-10-22T16:01:35.280842+01:00", "site": "9", "val": 3}, Reason: Invalid site value, Offset: 548675
+Invalid: {"at": "2024-10-22T16:01:39.281739+01:00", "site": "5", "val": -2}, Reason: Invalid val value, Offset: 548677
+Invalid: {"at": "2024-10-22T16:01:47.282443+01:00", "site": "0", "val": 8}, Reason: Invalid val value, Offset: 548679
+Invalid: {"at": "2024-10-22T16:02:17.285609+01:00", "site": "5", "val": -3}, Reason: Invalid val value, Offset: 548688
+Invalid: {"at": "2024-10-22T16:02:44.287771+01:00", "val": 4}, Reason: Missing site key, Offset: 548694
+Invalid: {"at": "2024-10-22T16:02:44.287771+01:00", "val": 4}, Reason: Invalid site value, Offset: 548694
+Invalid: {"at": "2024-10-22T16:02:59.289946+01:00", "site": "4", "val": 5}, Reason: Invalid val value, Offset: 548699
+Invalid: {"at": "2024-10-22T16:03:22.292660+01:00", "site": "2", "val": -1, "type": 2}, Reason: Invalid type value, Offset: 548706
+Invalid: {"at": "2024-10-22T16:03:54.296981+01:00", "site": "2"}, Reason: Missing val key, Offset: 548715
+Invalid: {"at": "2024-10-22T16:03:54.296981+01:00", "site": "2"}, Reason: Invalid val value, Offset: 548715
+Invalid: {"at": "2024-10-22T16:04:00.297381+01:00", "site": "3", "val": -3}, Reason: Invalid val value, Offset: 548716
+Invalid: {"at": "2024-10-22T16:04:12.298821+01:00", "site": "7", "val": 1}, Reason: Invalid site value, Offset: 548720
+Invalid: {"at": "2024-10-22T16:04:26.301740+01:00", "site": "3", "val": "INF"}, Reason: Invalid val value, Offset: 548727
+Invalid: {"at": "2024-10-22T16:04:27.302044+01:00", "site": "5", "val": -1, "type": -1}, Reason: Invalid type value, Offset: 548728
+Invalid: {"site": "5", "val": 4}, Reason: Missing at key, Offset: 548731
+Invalid: {"site": "5", "val": 4}, Reason: Invalid at value, Offset: 548731
+Invalid: {"at": "2024-10-22T16:04:58.306815+01:00", "site": "1", "val": "INF"}, Reason: Invalid val value, Offset: 548737
+Invalid: {"at": "2024-10-22T16:05:13.309560+01:00", "site": "12", "val": 2}, Reason: Invalid site value, Offset: 548743
