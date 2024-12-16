@@ -14,7 +14,7 @@ resource "aws_security_group" "insert_name_rds_security_group" {
     from_port   = 5432
     to_port     = 5432
     protocol    = "tcp"
-    cidr_blocks = ["0.0.0.0/0"] # Be cautious with this, as it opens the DB to the entire internet
+    cidr_blocks = ["0.0.0.0/0"]
   }
 
   # http
@@ -66,7 +66,7 @@ resource "aws_instance" "your-ec2" {
 
 # RDS PostgreSQL instance
 resource "aws_db_instance" "your_db" {
-  allocated_storage            = 10 # Storage in GB
+  allocated_storage            = 10
   db_name                      = "your_db_name"
   identifier                   = "your_db"
   engine                       = "postgres"
